@@ -1,0 +1,21 @@
+baseURL = 'https://totonomoney-blog.pages.dev/'
+languageCode = 'ja'
+title = 'ととのえマネー〜お金とゆっくり向き合うブログ〜'
+theme = 'PaperMod'
+
+[params]
+  description = 'シンママ40代のお金・投資・副業ブログ'
+  author = 'ととのえマネー'
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+
+[menu]
+  [[menu.main]]
+    name = 'ホーム'
+    url = '/'
+    weight = 1
+  [[menu.main]]
+    name = '記事一覧'
+    url = '/posts/'
+    weight = 2
