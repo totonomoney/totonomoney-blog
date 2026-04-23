@@ -3,6 +3,10 @@ languageCode = 'ja'
 title = 'ととのえマネー〜お金とゆっくり向き合うブログ〜'
 theme = 'PaperMod'
 
+[services]
+  [services.googleAnalytics]
+    ID = 'G-21974L4Y3M'
+
 [params]
   description = 'シンママ40代のお金・投資・副業ブログ'
   author = 'ととのえマネー'
@@ -19,3 +23,7 @@ theme = 'PaperMod'
     name = '記事一覧'
     url = '/posts/'
     weight = 2
+  [[menu.main]]
+    name = 'プライバシーポリシー'
+    url = '/privacy-policy/'
+    weight = 3
