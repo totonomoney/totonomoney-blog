@@ -13,6 +13,17 @@ theme = 'PaperMod'
   ShowReadingTime = true
   ShowShareButtons = false
   ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+
+  [params.homeInfoParams]
+    Title = 'ととのえマネーへようこそ 👋'
+    Content = 'シンママ40代が、お金・投資・副業をゆっくり自分のペースで学んでいくブログです。難しい言葉は使わず、等身大の言葉で綴っています。'
+
+  [[params.socialIcons]]
+    name = 'rss'
+    url = '/index.xml'
 
 [menu]
   [[menu.main]]
