@@ -4,6 +4,9 @@ date: 2026-04-24
 draft: false
 tags: ["家計", "シンママ", "節約", "体験談"]
 categories: ["シンママ体験談"]
+cover:
+  image: /images/household-budget.png
+  alt: "家計簿・電卓・コーヒーのフラットレイ"
 ---
 
 公開するか、ずっと迷っていました。
