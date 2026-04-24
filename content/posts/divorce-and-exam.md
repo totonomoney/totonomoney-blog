@@ -4,9 +4,6 @@ date: 2026-04-23
 draft: false
 tags: ["体験談", "シンママ", "家計"]
 categories: ["シンママ体験談"]
-cover:
-  image: /images/divorce-exam.jpg
-  alt: "窓からの光が差し込む勉強机"
 ---
 
 正直に書きます。
