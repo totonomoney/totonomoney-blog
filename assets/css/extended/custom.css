@@ -13,6 +13,154 @@ body, html {
     line-height: 1.85;
 }
 
+/* ===== サイドバーレイアウト ===== */
+.site-wrapper {
+    display: flex;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 16px;
+    gap: 32px;
+    align-items: start;
+}
+
+.site-wrapper .main {
+    flex: 1;
+    min-width: 0;
+    max-width: 100%;
+}
+
+.sidebar {
+    width: 260px;
+    flex-shrink: 0;
+    position: sticky;
+    top: 80px;
+}
+
+/* サイドバー ウィジェット */
+.sidebar-widget {
+    background: #fff;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+/* プロフィール */
+.sidebar-profile {
+    text-align: center;
+}
+
+.sidebar-avatar {
+    font-size: 3rem;
+    margin-bottom: 8px;
+}
+
+.sidebar-name {
+    font-family: 'Shippori Mincho', serif;
+    font-weight: 700;
+    font-size: 1rem;
+    color: var(--accent-dark);
+    margin-bottom: 8px;
+}
+
+.sidebar-bio {
+    font-size: 0.8rem;
+    color: var(--text-sub);
+    line-height: 1.7;
+    margin-bottom: 12px;
+}
+
+.sidebar-more {
+    font-size: 0.8rem;
+    color: var(--accent);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.sidebar-more:hover {
+    color: var(--accent-dark);
+}
+
+/* サイドバータイトル */
+.sidebar-title {
+    font-family: 'Shippori Mincho', serif;
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: var(--accent-dark);
+    border-bottom: 2px solid var(--accent-light);
+    padding-bottom: 8px;
+    margin-bottom: 12px;
+}
+
+/* カテゴリ */
+.sidebar-categories {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar-categories li {
+    margin-bottom: 8px;
+}
+
+.sidebar-categories a {
+    font-size: 0.85rem;
+    color: var(--text);
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 4px 0;
+    border-bottom: 1px dashed var(--border);
+    transition: color 0.2s;
+}
+
+.sidebar-categories a:hover {
+    color: var(--accent);
+}
+
+/* 最新記事 */
+.sidebar-posts {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar-posts li {
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px dashed var(--border);
+}
+
+.sidebar-posts li:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+}
+
+.sidebar-posts a {
+    font-size: 0.82rem;
+    color: var(--text);
+    text-decoration: none;
+    line-height: 1.5;
+    display: block;
+    transition: color 0.2s;
+}
+
+.sidebar-posts a:hover {
+    color: var(--accent);
+}
+
+/* スマホではサイドバーを非表示 */
+@media (max-width: 900px) {
+    .site-wrapper {
+        flex-direction: column;
+    }
+    .sidebar {
+        width: 100%;
+        position: static;
+    }
+}
+
 /* ===== PC表示の最適化 ===== */
 @media (min-width: 1024px) {
     /* コンテンツ幅をPC向けに */

@@ -1,0 +1,30 @@
+<!-- サイドバー -->
+
+<!-- プロフィール -->
+<div class="sidebar-widget sidebar-profile">
+    <div class="sidebar-avatar">🌿</div>
+    <div class="sidebar-name">ととのえマネー</div>
+    <div class="sidebar-bio">シンママ40代。お金・投資・副業をゆっくり自分のペースで学んでいます。</div>
+    <a href="/about/" class="sidebar-more">→ 詳しくはこちら</a>
+</div>
+
+<!-- カテゴリ -->
+<div class="sidebar-widget">
+    <h3 class="sidebar-title">カテゴリ</h3>
+    <ul class="sidebar-categories">
+        <li><a href="/categories/シンママ体験談/">📖 シンママ体験談</a></li>
+        <li><a href="/categories/お金・節約/">💰 お金・節約</a></li>
+    </ul>
+</div>
+
+<!-- 最新記事 -->
+<div class="sidebar-widget">
+    <h3 class="sidebar-title">最新記事</h3>
+    <ul class="sidebar-posts">
+        {{ range first 5 (where site.RegularPages "Type" "posts") }}
+        <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </li>
+        {{ end }}
+    </ul>
+</div>
