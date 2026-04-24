@@ -13,6 +13,48 @@ body, html {
     line-height: 1.85;
 }
 
+/* ===== PC表示の最適化 ===== */
+@media (min-width: 1024px) {
+    /* コンテンツ幅をPC向けに */
+    .main {
+        max-width: 860px;
+        margin: 0 auto;
+        padding: 0 24px;
+    }
+
+    /* 記事本文の幅 */
+    .post-single .main {
+        max-width: 760px;
+    }
+
+    /* 本文フォントサイズ */
+    .post-content {
+        font-size: 1rem !important;
+        line-height: 2.1;
+    }
+
+    /* 記事タイトル（PC）*/
+    .post-title {
+        font-size: 1.8rem !important;
+        line-height: 1.5 !important;
+    }
+
+    h1.post-title {
+        font-size: 1.8rem !important;
+        line-height: 1.5 !important;
+    }
+}
+
+/* タイトルサイズ全体的に調整 */
+.post-title,
+h1.post-title {
+    font-size: clamp(1.3rem, 3vw, 1.9rem) !important;
+    line-height: 1.5 !important;
+    font-family: 'Shippori Mincho', serif;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+}
+
 /* カラー変数 */
 :root {
     --bg:           #FAF8F4;

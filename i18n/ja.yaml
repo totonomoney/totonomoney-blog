@@ -1,0 +1,14 @@
+- id: toc
+  translation: "目次"
+- id: prev_page
+  translation: "← 前の記事"
+- id: next_page
+  translation: "次の記事 →"
+- id: read_time
+  translation: "分で読めます"
+- id: words
+  translation: "文字"
+- id: author
+  translation: "著者"
+- id: posted_on
+  translation: "投稿日"
