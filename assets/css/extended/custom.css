@@ -1,59 +1,80 @@
 /* ===========================
-   ととのえマネー カスタムデザイン
+   ととのえマネー
+   yuimoneylife.com 風デザイン
+   ウォームミニマル
    =========================== */
 
-:root {
-    --accent:       #E07B6A;
-    --accent-light: #FEF0ED;
-    --accent-dark:  #B85A49;
-    --accent-mid:   #F0A898;
+/* フォント設定 */
+body, html {
+    font-family: 'Noto Sans JP', sans-serif !important;
+    background-color: #FAF8F4 !important;
+    color: #2C2C2C;
+    font-size: 15px;
+    line-height: 1.85;
 }
 
-/* ===== ロゴ・ヘッダー ===== */
-.logo a {
-    font-weight: 800;
-    color: var(--accent-dark) !important;
+/* カラー変数 */
+:root {
+    --bg:           #FAF8F4;
+    --card-bg:      #FFFFFF;
+    --accent:       #7A6652;
+    --accent-light: #F2EDE6;
+    --accent-dark:  #4A3728;
+    --text:         #2C2C2C;
+    --text-sub:     #888;
+    --border:       #E8E0D6;
+    --badge-bg:     #2C2C2C;
+    --badge-text:   #FFFFFF;
+}
+
+/* ===== サイト全体の背景 ===== */
+.main, body {
+    background: var(--bg) !important;
+}
+
+/* ===== ヘッダー・ナビ ===== */
+header.header {
+    background: var(--bg) !important;
+    border-bottom: 1px solid var(--border);
 }
 
 .nav {
-    border-bottom: 3px solid var(--accent-light);
+    background: var(--bg) !important;
+    border-bottom: 1px solid var(--border) !important;
+}
+
+.logo a {
+    font-family: 'Shippori Mincho', serif !important;
+    font-weight: 700;
+    font-size: 1.1rem;
+    color: var(--accent-dark) !important;
+    letter-spacing: 0.05em;
 }
 
 .menu a {
-    font-weight: 600;
-    font-size: 0.88rem;
-    padding: 4px 10px;
-    border-radius: 20px;
-    transition: all 0.2s ease;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 500;
+    font-size: 0.82rem;
+    color: var(--text) !important;
+    letter-spacing: 0.05em;
+    padding: 4px 12px;
+    border-radius: 2px;
+    transition: all 0.2s;
 }
 
 .menu a:hover {
-    background: var(--accent-light);
-    color: var(--accent-dark) !important;
+    color: var(--accent) !important;
 }
 
-/* ===== トップ ホームInfo (.home-info が正しいクラス) ===== */
+/* ===== ホームInfo ===== */
 article.home-info {
-    background: var(--accent-light);
-    border-left: 5px solid var(--accent);
-    border-radius: 0 12px 12px 0;
+    background: transparent !important;
+    border: none !important;
+    border-left: 3px solid var(--accent) !important;
+    border-radius: 0 !important;
     padding: 20px 24px !important;
     box-shadow: none !important;
-    border: none;
-    border-left: 5px solid var(--accent) !important;
-}
-
-article.home-info .entry-header h1 {
-    font-size: 1.3rem;
-    font-weight: 800;
-    color: var(--accent-dark);
-    margin-bottom: 6px;
-}
-
-article.home-info .entry-content {
-    color: #666;
-    font-size: 0.92rem;
-    line-height: 1.7;
+    margin-bottom: 40px;
 }
 
 article.home-info:hover {
@@ -61,16 +82,30 @@ article.home-info:hover {
     box-shadow: none !important;
 }
 
-/* ===== 2カラム グリッドレイアウト ===== */
+article.home-info .entry-header h1 {
+    font-family: 'Shippori Mincho', serif;
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--accent-dark);
+    letter-spacing: 0.05em;
+    margin-bottom: 10px;
+}
+
+article.home-info .entry-content {
+    font-size: 0.88rem;
+    color: var(--text-sub);
+    line-height: 1.8;
+}
+
+/* ===== 2カラム グリッド ===== */
 @media (min-width: 640px) {
     .main {
         display: grid;
         grid-template-columns: 1fr 1fr;
-        gap: 20px;
+        gap: 24px;
         align-items: start;
     }
 
-    /* ホームInfoは全幅 */
     .first-entry {
         grid-column: 1 / -1;
     }
@@ -78,127 +113,163 @@ article.home-info:hover {
 
 /* ===== 記事カード ===== */
 .post-entry {
-    border-radius: 14px;
-    border: 1px solid #f0e8e6 !important;
+    background: var(--card-bg) !important;
+    border-radius: 4px !important;
+    border: 1px solid var(--border) !important;
     overflow: hidden;
-    transition: all 0.25s ease;
-    background: #fff;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    transition: all 0.3s ease;
+    box-shadow: 0 1px 6px rgba(0,0,0,0.04) !important;
     padding: 0 !important;
     margin: 0 !important;
 }
 
 .post-entry:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 30px rgba(224, 123, 106, 0.2) !important;
-    border-color: var(--accent-mid) !important;
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.09) !important;
+    border-color: #D4C8BA !important;
 }
 
 .post-entry .entry-header,
 .post-entry .entry-content,
 .post-entry .entry-footer {
-    padding-left: 16px;
-    padding-right: 16px;
+    padding-left: 18px;
+    padding-right: 18px;
 }
 
-.post-entry .entry-header { padding-top: 14px; }
-.post-entry .entry-footer { padding-bottom: 14px; }
+.post-entry .entry-header { padding-top: 16px; }
+.post-entry .entry-footer { padding-bottom: 16px; }
+
+/* ===== 記事タイトル ===== */
+.entry-header h2 {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 0.93rem;
+    font-weight: 700;
+    line-height: 1.7;
+    color: var(--text);
+    letter-spacing: 0.02em;
+}
 
 /* ===== カバー画像 ===== */
 .entry-cover img {
     width: 100%;
-    height: 170px;
+    height: 185px;
     object-fit: cover;
     display: block;
-    border-radius: 0;
 }
 
 .post-cover img {
-    border-radius: 12px;
+    border-radius: 4px;
     width: 100%;
-    max-height: 400px;
+    max-height: 420px;
     object-fit: cover;
 }
 
-/* ===== 記事タイトル ===== */
-.entry-header h2 {
-    font-size: 0.95rem;
+/* ===== カテゴリバッジ（yuimoneylife風 ダーク）===== */
+.post-categories a {
+    background: var(--badge-bg) !important;
+    color: var(--badge-text) !important;
+    font-size: 0.68rem;
     font-weight: 700;
-    line-height: 1.65;
-    color: #333;
+    letter-spacing: 0.1em;
+    padding: 3px 10px;
+    border-radius: 2px;
+    text-decoration: none;
+    text-transform: uppercase;
 }
 
-/* ===== タグ・バッジ ===== */
-.post-tags a,
-.terms-tags li a {
-    background: var(--accent-light);
-    color: var(--accent-dark);
-    border-radius: 20px;
-    padding: 3px 12px;
+/* ===== タグ ===== */
+.post-tags a {
+    background: transparent;
+    color: var(--text-sub);
     font-size: 0.75rem;
-    font-weight: 700;
+    border: 1px solid var(--border);
+    border-radius: 2px;
+    padding: 2px 10px;
     text-decoration: none;
-    border: 1.5px solid var(--accent-mid);
-    transition: all 0.2s ease;
+    transition: all 0.2s;
     display: inline-block;
     margin: 2px;
 }
 
-.post-tags a:hover,
-.terms-tags li a:hover {
-    background: var(--accent);
-    color: #fff;
+.post-tags a:hover {
+    background: var(--accent-light);
+    color: var(--accent-dark);
     border-color: var(--accent);
 }
 
+/* ===== メタ情報（日付・読了時間）===== */
+.post-meta,
+.entry-footer {
+    font-size: 0.75rem;
+    color: var(--text-sub);
+    letter-spacing: 0.03em;
+}
+
 /* ===== リンクカラー ===== */
-a { color: var(--accent-dark); }
+a {
+    color: var(--text);
+    text-decoration: none;
+}
 a:hover { color: var(--accent); }
 
-/* ===== 記事本文 見出し ===== */
+/* ===== 記事本文 ===== */
+.post-content {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 0.95rem;
+    line-height: 2;
+    color: var(--text);
+}
+
 .post-content h2 {
+    font-family: 'Shippori Mincho', serif;
     background: var(--accent-light);
-    border-left: 5px solid var(--accent);
-    border-radius: 0 8px 8px 0;
-    padding: 10px 16px;
+    border-left: 4px solid var(--accent);
+    border-radius: 0 4px 4px 0;
+    padding: 12px 18px;
     margin-top: 2.5rem;
     color: var(--accent-dark);
     font-size: 1.1rem;
+    letter-spacing: 0.05em;
 }
 
 .post-content h3 {
-    border-bottom: 2px dashed var(--accent-mid);
+    font-family: 'Shippori Mincho', serif;
+    border-bottom: 2px solid var(--border);
     padding-bottom: 6px;
-    color: #444;
+    color: var(--accent-dark);
+    font-size: 1rem;
+    letter-spacing: 0.05em;
 }
 
 .post-content hr {
     border: none;
-    border-top: 2px dashed var(--accent-mid);
+    border-top: 1px solid var(--border);
     margin: 2.5rem 0;
-    opacity: 0.5;
 }
 
 /* ===== 表 ===== */
 .post-content table {
-    border-radius: 10px;
+    border-radius: 4px;
     overflow: hidden;
-    box-shadow: 0 2px 16px rgba(0,0,0,0.06);
     width: 100%;
     border-collapse: collapse;
+    border: 1px solid var(--border);
 }
 
 .post-content table th {
-    background: var(--accent);
+    background: var(--accent-dark);
     color: #fff;
-    padding: 10px 14px;
+    padding: 10px 16px;
+    font-size: 0.85rem;
     font-weight: 700;
     text-align: left;
+    letter-spacing: 0.05em;
 }
 
 .post-content table td {
-    padding: 8px 14px;
-    border-bottom: 1px solid #f5eeec;
+    padding: 9px 16px;
+    font-size: 0.88rem;
+    border-bottom: 1px solid var(--border);
 }
 
 .post-content table tr:nth-child(even) td {
@@ -207,32 +278,48 @@ a:hover { color: var(--accent); }
 
 /* ===== TOC ===== */
 .toc {
-    border: 2px solid var(--accent-mid);
-    border-radius: 12px;
+    border: 1px solid var(--border);
+    border-radius: 4px;
     background: var(--accent-light);
     padding: 16px 20px;
 }
 
 .toc details summary {
-    font-weight: 800;
+    font-family: 'Shippori Mincho', serif;
+    font-weight: 700;
     color: var(--accent-dark);
+    letter-spacing: 0.05em;
+}
+
+/* ===== ページネーション ===== */
+.paginav {
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    background: var(--card-bg);
 }
 
 /* ===== フッター ===== */
 .footer {
-    border-top: 2px solid var(--accent-light);
-    font-size: 0.85rem;
-    color: #aaa;
+    background: var(--bg) !important;
+    border-top: 1px solid var(--border);
+    font-size: 0.78rem;
+    color: var(--text-sub);
+    letter-spacing: 0.05em;
 }
 
 /* ===== ダークモード ===== */
+.dark body,
+.dark .main {
+    background: #1A1714 !important;
+}
+
 .dark .post-entry {
-    border-color: #2a2a2a !important;
-    background: #1e1e1e;
+    background: #252220 !important;
+    border-color: #3A3530 !important;
 }
-.dark article.home-info {
-    background: #2a1f1d;
-}
-.dark .post-content h2 {
-    background: #2a1f1d;
+
+.dark .nav,
+.dark header.header {
+    background: #1A1714 !important;
+    border-bottom-color: #3A3530 !important;
 }
