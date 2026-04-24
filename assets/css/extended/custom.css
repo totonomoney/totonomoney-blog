@@ -1,6 +1,5 @@
 /* ===========================
    ととのえマネー カスタムデザイン
-   shinmamalife.com 風グリッドレイアウト
    =========================== */
 
 :root {
@@ -13,7 +12,6 @@
 /* ===== ロゴ・ヘッダー ===== */
 .logo a {
     font-weight: 800;
-    font-size: 1.1rem;
     color: var(--accent-dark) !important;
 }
 
@@ -34,27 +32,33 @@
     color: var(--accent-dark) !important;
 }
 
-/* ===== トップ ホームInfo ===== */
-.home-info-content {
+/* ===== トップ ホームInfo (.home-info が正しいクラス) ===== */
+article.home-info {
     background: var(--accent-light);
     border-left: 5px solid var(--accent);
     border-radius: 0 12px 12px 0;
-    padding: 20px 24px;
-    margin-bottom: 32px;
+    padding: 20px 24px !important;
+    box-shadow: none !important;
+    border: none;
+    border-left: 5px solid var(--accent) !important;
 }
 
-.home-info-content h1 {
+article.home-info .entry-header h1 {
     font-size: 1.3rem;
     font-weight: 800;
     color: var(--accent-dark);
     margin-bottom: 6px;
 }
 
-.home-info-content p {
+article.home-info .entry-content {
     color: #666;
     font-size: 0.92rem;
     line-height: 1.7;
-    margin: 0;
+}
+
+article.home-info:hover {
+    transform: none !important;
+    box-shadow: none !important;
 }
 
 /* ===== 2カラム グリッドレイアウト ===== */
@@ -66,11 +70,7 @@
         align-items: start;
     }
 
-    /* ホームInfoとfirst-entryは全幅 */
-    .home-info-content {
-        grid-column: 1 / -1;
-    }
-
+    /* ホームInfoは全幅 */
     .first-entry {
         grid-column: 1 / -1;
     }
@@ -79,22 +79,21 @@
 /* ===== 記事カード ===== */
 .post-entry {
     border-radius: 14px;
-    border: 1px solid #f0e8e6;
+    border: 1px solid #f0e8e6 !important;
     overflow: hidden;
     transition: all 0.25s ease;
     background: #fff;
     box-shadow: 0 2px 8px rgba(0,0,0,0.05);
-    padding: 0;
-    margin: 0;
+    padding: 0 !important;
+    margin: 0 !important;
 }
 
 .post-entry:hover {
     transform: translateY(-5px);
-    box-shadow: 0 10px 30px rgba(224, 123, 106, 0.2);
-    border-color: var(--accent-mid);
+    box-shadow: 0 10px 30px rgba(224, 123, 106, 0.2) !important;
+    border-color: var(--accent-mid) !important;
 }
 
-/* カード内のテキスト部分にパディング */
 .post-entry .entry-header,
 .post-entry .entry-content,
 .post-entry .entry-footer {
@@ -102,48 +101,16 @@
     padding-right: 16px;
 }
 
-.post-entry .entry-header {
-    padding-top: 14px;
-}
-
-.post-entry .entry-footer {
-    padding-bottom: 14px;
-}
-
-/* first-entryは横並び */
-.first-entry {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    gap: 0;
-}
-
-@media (min-width: 640px) {
-    .first-entry .entry-cover {
-        width: 45%;
-        flex-shrink: 0;
-    }
-
-    .first-entry .entry-header,
-    .first-entry .entry-content,
-    .first-entry .entry-footer {
-        flex: 1;
-    }
-}
+.post-entry .entry-header { padding-top: 14px; }
+.post-entry .entry-footer { padding-bottom: 14px; }
 
 /* ===== カバー画像 ===== */
 .entry-cover img {
     width: 100%;
-    height: 180px;
+    height: 170px;
     object-fit: cover;
     display: block;
     border-radius: 0;
-}
-
-.first-entry .entry-cover img {
-    height: 100%;
-    min-height: 200px;
-    border-radius: 14px 0 0 14px;
 }
 
 .post-cover img {
@@ -155,14 +122,10 @@
 
 /* ===== 記事タイトル ===== */
 .entry-header h2 {
-    font-size: 0.97rem;
+    font-size: 0.95rem;
     font-weight: 700;
-    line-height: 1.6;
+    line-height: 1.65;
     color: #333;
-}
-
-.first-entry .entry-header h2 {
-    font-size: 1.2rem;
 }
 
 /* ===== タグ・バッジ ===== */
@@ -178,7 +141,7 @@
     border: 1.5px solid var(--accent-mid);
     transition: all 0.2s ease;
     display: inline-block;
-    margin: 2px 2px;
+    margin: 2px;
 }
 
 .post-tags a:hover,
@@ -264,10 +227,10 @@ a:hover { color: var(--accent); }
 
 /* ===== ダークモード ===== */
 .dark .post-entry {
-    border-color: #2a2a2a;
+    border-color: #2a2a2a !important;
     background: #1e1e1e;
 }
-.dark .home-info-content {
+.dark article.home-info {
     background: #2a1f1d;
 }
 .dark .post-content h2 {
