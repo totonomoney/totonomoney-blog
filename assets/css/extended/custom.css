@@ -693,6 +693,7 @@ a:hover { color: var(--accent); }
     background: linear-gradient(135deg, #F5EDE0, #EDE0D0);
     padding: 6px;
     box-shadow: 0 4px 14px rgba(122, 102, 82, 0.18);
+    overflow: hidden;
 }
 
 .sidebar-avatar-img {
