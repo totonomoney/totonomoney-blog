@@ -650,3 +650,36 @@ a:hover { color: var(--accent); }
 .dark .featured-card-title {
     color: #E8D8C8 !important;
 }
+
+/* ===== あわせて読みたい ===== */
+.post-content ul li > a:only-child {
+    display: block;
+    padding: 0.65rem 1rem 0.65rem 1.1rem;
+    background: #FDF6EE;
+    border: 1px solid #E8E0D8;
+    border-left: 3px solid #7A6652;
+    border-radius: 6px;
+    color: #4A3728 !important;
+    text-decoration: none !important;
+    font-size: 0.88rem;
+    transition: all 0.18s;
+    margin-bottom: 0.1rem;
+}
+
+.post-content ul li > a:only-child:hover {
+    background: #F5EDE0;
+    border-left-color: #4A3728;
+    transform: translateX(4px);
+    text-decoration: none !important;
+}
+
+.dark .post-content ul li > a:only-child {
+    background: #252220 !important;
+    border-color: #3A3530 !important;
+    border-left-color: #7A6652 !important;
+    color: #E8D8C8 !important;
+}
+
+.dark .post-content ul li > a:only-child:hover {
+    background: #2E2A26 !important;
+}

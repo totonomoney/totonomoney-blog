@@ -1,7 +1,8 @@
 ---
 title: "40代シンママがNISAを始めた理由　老後が怖くて調べてみた"
-date: 2026-04-25
+date: 2026-04-18
 draft: false
+description: "老後が怖くてNISAを調べ始めた40代シンママ。40代からでも遅くない？SBI証券でつみたて投資を月1万円から始めた体験談。"
 tags: ["NISA", "投資", "老後", "シンママ"]
 categories: ["お金・節約"]
 featured: true

@@ -1,7 +1,8 @@
 ---
 title: "知らないと損！iDeCoが子どもの奨学金に影響する理由"
-date: 2026-04-25
+date: 2026-04-19
 draft: false
+description: "iDeCoは老後のためだけじゃない。所得控除で子どもの奨学金審査に有利になる可能性も。シンママ目線でわかりやすく解説します。"
 tags: ["iDeCo", "奨学金", "節税", "シンママ", "大学費用"]
 categories: ["お金・節約"]
 featured: true
