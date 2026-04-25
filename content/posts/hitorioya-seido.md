@@ -193,5 +193,5 @@ featured: true
 ## あわせて読みたい 📖
 
 - [離婚後に見直したこと10選](/posts/divorce-review-10/)
-- [受験生の塾代がきつい…シンママがスタディサプリを選んだ理由](/posts/juku-studysapuri/)
+- [高校受験は塾なし・学校のワークだけで合格。今は奨学金で塾へ](/posts/juku-studysapuri/)
 - [シンママのリアル家計公開](/posts/real-household-budget/)
