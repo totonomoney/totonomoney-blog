@@ -180,6 +180,6 @@ categories: ["お金・節約"]
 
 ## あわせて読みたい 📖
 
-- [スマホ代を月8,000円→1,000円に。格安SIMに変えた話](/posts/sim-change/)
+- [スマホ代、家族3人で月1万円以下に。ワイモバイルに変えた話](/posts/sim-change/)
 - [ひとり親家庭がもらえるお金・制度まとめ](/posts/hitorioya-seido/)
 - [40代シンママがNISAを始めた理由](/posts/nisa-start/)

@@ -129,6 +129,6 @@ featured: true
 
 ## あわせて読みたい 📖
 
-- [ひとり親家庭がもらえるお金・制度まとめ](/posts/hitorioya-seido/)
-- [受験費用どうした？シンママのリアル家計公開](/posts/real-household-budget/)
+- [次女が高校2年から3つの奨学金をもらっている話](/posts/shogakukin-multiple/)
 - [知らないと損！iDeCoが子どもの奨学金に影響する理由](/posts/ideco-scholarship/)
+- [ひとり親家庭がもらえるお金・制度まとめ](/posts/hitorioya-seido/)

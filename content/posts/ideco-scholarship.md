@@ -152,5 +152,5 @@ iDeCoのメリット、改めてまとめます。
 ## あわせて読みたい 📖
 
 - [40代シンママがNISAを始めた理由](/posts/nisa-start/)
-- [ふるさと納税、シンママでもできる？調べてみたらお得すぎた](/posts/furusato-nozei/)
+- [大学生の娘の国民年金、私が2年分一括で払った理由](/posts/nenkin-ikkatsu/)
 - [ひとり親家庭がもらえるお金・制度まとめ](/posts/hitorioya-seido/)

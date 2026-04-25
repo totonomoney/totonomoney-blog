@@ -190,6 +190,6 @@ featured: true
 
 ## あわせて読みたい 📖
 
-- [スマホ代を月8,000円→1,000円に。格安SIMに変えた話](/posts/sim-change/)
 - [離婚後に見直したこと10選](/posts/divorce-review-10/)
+- [受験生の塾代がきつい…シンママがスタディサプリを選んだ理由](/posts/juku-studysapuri/)
 - [シンママのリアル家計公開](/posts/real-household-budget/)
