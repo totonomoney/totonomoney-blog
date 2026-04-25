@@ -124,4 +124,10 @@ featured: true
 
 最後まで読んでくれてありがとうございます 🤎
 
-次回は、ひとり親家庭でもらえるお金・制度まとめを書きます！
+---
+
+## あわせて読みたい 📖
+
+- [ひとり親家庭がもらえるお金・制度まとめ](/posts/hitorioya-seido/)
+- [受験費用どうした？シンママのリアル家計公開](/posts/real-household-budget/)
+- [知らないと損！iDeCoが子どもの奨学金に影響する理由](/posts/ideco-scholarship/)
