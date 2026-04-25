@@ -163,16 +163,9 @@ body, html {
 
 /* ===== PC表示の最適化 ===== */
 @media (min-width: 1024px) {
-    /* コンテンツ幅をPC向けに */
+    /* コンテンツ幅：サイドバーがある場合はflex:1で自動調整 */
     .main {
-        max-width: 860px;
-        margin: 0 auto;
-        padding: 0 24px;
-    }
-
-    /* 記事本文の幅 */
-    .post-single .main {
-        max-width: 760px;
+        padding: 0 8px;
     }
 
     /* 本文フォントサイズ */
