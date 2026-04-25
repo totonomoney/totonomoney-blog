@@ -325,7 +325,7 @@ article.home-info .entry-content {
     border-top-color: #4A3A2A !important;
 }
 
-/* ===== 2カラム グリッド ===== */
+/* ===== 2カラム グリッド（ホーム一覧のみ）===== */
 @media (min-width: 640px) {
     .main {
         display: grid;
@@ -336,6 +336,14 @@ article.home-info .entry-content {
 
     .first-entry {
         grid-column: 1 / -1;
+    }
+
+    /* 記事ページ・固定ページは全幅で表示 */
+    .post-single,
+    .page-single,
+    article.home-info {
+        grid-column: 1 / -1;
+        width: 100%;
     }
 }
 
