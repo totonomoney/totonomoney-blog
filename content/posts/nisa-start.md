@@ -4,6 +4,7 @@ date: 2026-04-25
 draft: false
 tags: ["NISA", "投資", "老後", "シンママ"]
 categories: ["お金・節約"]
+featured: true
 cover:
   image: /images/nisa.png
   alt: "NISAと投資のイメージ"

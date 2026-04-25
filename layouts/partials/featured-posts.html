@@ -1,0 +1,19 @@
+{{- $featured := where site.RegularPages "Params.featured" true }}
+{{- if $featured }}
+<section class="featured-section">
+  <h2 class="featured-title">✨ おすすめ記事</h2>
+  <div class="featured-grid">
+    {{- range $featured }}
+    <a class="featured-card" href="{{ .Permalink }}">
+      <div class="featured-card-inner">
+        <p class="featured-card-category">
+          {{- with .Params.categories }}{{ index . 0 }}{{ end }}
+        </p>
+        <h3 class="featured-card-title">{{ .Title }}</h3>
+        <p class="featured-card-summary">{{ .Summary | plainify | htmlUnescape | truncate 60 "…" }}</p>
+      </div>
+    </a>
+    {{- end }}
+  </div>
+</section>
+{{- end }}

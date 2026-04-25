@@ -513,3 +513,95 @@ a:hover { color: var(--accent); }
     background: #1A1714 !important;
     border-bottom-color: #3A3530 !important;
 }
+
+/* ===== おすすめ記事 ===== */
+.featured-section {
+    margin: 2rem 0 2.5rem;
+}
+
+.featured-title {
+    font-family: 'Shippori Mincho', serif;
+    font-size: 1.2rem;
+    color: #7A6652;
+    border-left: 4px solid #7A6652;
+    padding-left: 0.75rem;
+    margin-bottom: 1.2rem;
+}
+
+.featured-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+}
+
+@media (max-width: 600px) {
+    .featured-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+.featured-card {
+    display: block;
+    background: #FFFFFF;
+    border: 1px solid #E8E0D8;
+    border-radius: 10px;
+    text-decoration: none;
+    transition: transform 0.2s, box-shadow 0.2s;
+    overflow: hidden;
+}
+
+.featured-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 18px rgba(122, 102, 82, 0.15);
+    text-decoration: none;
+}
+
+.featured-card-inner {
+    padding: 1.1rem 1.2rem;
+}
+
+.featured-card-category {
+    font-size: 0.72rem;
+    color: #FFFFFF;
+    background: #7A6652;
+    display: inline-block;
+    padding: 0.15rem 0.6rem;
+    border-radius: 20px;
+    margin-bottom: 0.5rem;
+    letter-spacing: 0.05em;
+}
+
+.featured-card-title {
+    font-family: 'Shippori Mincho', serif;
+    font-size: 0.95rem;
+    color: #4A3728;
+    line-height: 1.6;
+    margin: 0 0 0.4rem;
+}
+
+.featured-card-summary {
+    font-size: 0.8rem;
+    color: #8C7B6E;
+    line-height: 1.6;
+    margin: 0;
+}
+
+/* 新着記事ラベル */
+.recent-posts-title {
+    font-family: 'Shippori Mincho', serif;
+    font-size: 1.2rem;
+    color: #7A6652;
+    border-left: 4px solid #7A6652;
+    padding-left: 0.75rem;
+    margin: 0.5rem 0 1.2rem;
+}
+
+/* ダークモード対応 */
+.dark .featured-card {
+    background: #252220 !important;
+    border-color: #3A3530 !important;
+}
+
+.dark .featured-card-title {
+    color: #E8D8C8 !important;
+}

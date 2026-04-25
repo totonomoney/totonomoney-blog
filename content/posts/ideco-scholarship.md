@@ -4,6 +4,7 @@ date: 2026-04-25
 draft: false
 tags: ["iDeCo", "奨学金", "節税", "シンママ", "大学費用"]
 categories: ["お金・節約"]
+featured: true
 ---
 
 「iDeCoって老後のためだけでしょ？」
