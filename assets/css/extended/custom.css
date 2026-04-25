@@ -700,6 +700,8 @@ a:hover { color: var(--accent); }
     height: 100%;
     border-radius: 50%;
     object-fit: cover;
-    object-position: top center;
+    object-position: center 15%;
     display: block;
+    transform: scale(1.3);
+    transform-origin: center 25%;
 }
