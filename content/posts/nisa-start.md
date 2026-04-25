@@ -160,5 +160,5 @@ NISAには2種類の枠があります。
 ## あわせて読みたい 📖
 
 - [知らないと損！iDeCoが子どもの奨学金に影響する理由](/posts/ideco-scholarship/)
-- [ふるさと納税、シンママでもできる？調べてみたらお得すぎた](/posts/furusato-nozei/)
+- [大学生の娘の国民年金、私が2年分一括で払った理由](/posts/nenkin-ikkatsu/)
 - [シンママのリアル家計公開](/posts/real-household-budget/)
