@@ -59,6 +59,10 @@ theme = 'PaperMod'
     url = '/about/'
     weight = 5
   [[menu.main]]
+    name = 'お問い合わせ'
+    url = '/contact/'
+    weight = 6
+  [[menu.main]]
     name = 'プライバシーポリシー'
     url = '/privacy-policy/'
-    weight = 6
+    weight = 7
