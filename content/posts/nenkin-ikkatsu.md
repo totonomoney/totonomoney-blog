@@ -218,6 +218,6 @@ iDeCoとの組み合わせで、さらに節税効果が高まります。
 
 ## あわせて読みたい 📖
 
-- [成人式にかかった費用と、次女のための積み立て方法](/posts/seijinshiki/)
+- [成人式の費用はいくらかかった？振袖レンタル25万円＋シンママのリアル内訳](/posts/seijinshiki/)
 - [知らないと損！iDeCoが子どもの奨学金に影響する理由](/posts/ideco-scholarship/)
 - [ひとり親家庭がもらえるお金・制度まとめ](/posts/hitorioya-seido/)
