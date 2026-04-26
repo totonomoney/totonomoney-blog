@@ -177,5 +177,5 @@ iDeCoのメリット、改めてまとめます。
 ## あわせて読みたい 📖
 
 - [40代シンママがNISAを始めた理由](/posts/nisa-start/)
-- [次女が高校2年から2つの奨学金をもらっている話](/posts/shogakukin-multiple/)
-- [大学生の娘の国民年金、私が2年分一括で払った理由](/posts/nenkin-ikkatsu/)
+- [高校生が給付型奨学金を2つもらっている話](/posts/shogakukin-multiple/)
+- [大学生の国民年金を親が払うと節税になる](/posts/nenkin-ikkatsu/)

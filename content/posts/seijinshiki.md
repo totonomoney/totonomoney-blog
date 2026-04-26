@@ -118,6 +118,6 @@ cover:
 
 ## あわせて読みたい 📖
 
-- [大学生の娘の国民年金、私が2年分一括で払った理由](/posts/nenkin-ikkatsu/)
+- [大学生の国民年金を親が払うと節税になる](/posts/nenkin-ikkatsu/)
 - [ひとり親家庭がもらえるお金・制度まとめ](/posts/hitorioya-seido/)
 - [シンママのリアル家計公開](/posts/real-household-budget/)

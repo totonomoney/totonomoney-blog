@@ -161,5 +161,5 @@ cover:
 ## あわせて読みたい 📖
 
 - [ひとり親家庭がもらえるお金・制度まとめ](/posts/hitorioya-seido/)
-- [協議離婚でも養育費月20万円もらえた話](/posts/youikuhi/)
+- [弁護士を入れて養育費月20万円を確保した話](/posts/youikuhi/)
 - [シンママのリアル家計公開](/posts/real-household-budget/)

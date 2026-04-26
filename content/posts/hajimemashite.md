@@ -3,7 +3,7 @@ title: "シンママ40代まゆみんの自己紹介｜ととのえマネー"
 date: 2026-04-10
 draft: false
 description: "40代シンママが、お金と向き合いながら書くリアルなブログ。NISA・iDeCo・節約・ひとり親の制度まで、等身大の言葉で綴ります。"
-tags: ["ごあいさつ", "シンママ"]
+tags: ["ごあいさつ", "シンママ", "FP2級", "NISA", "iDeCo", "ひとり親", "養育費"]
 categories: ["シンママ体験談"]
 cover:
   image: /images/hajimemashite.png

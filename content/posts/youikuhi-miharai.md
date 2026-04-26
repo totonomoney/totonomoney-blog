@@ -173,6 +173,6 @@ cover:
 
 ## あわせて読みたい 📖
 
-- [協議離婚でも養育費月20万円を確保した方法](/posts/youikuhi/)
+- [弁護士を入れて養育費月20万円を確保した話](/posts/youikuhi/)
 - [ひとり親家庭がもらえるお金・制度まとめ](/posts/hitorioya-seido/)
 - [離婚後に見直したこと10選](/posts/divorce-review-10/)
