@@ -6,6 +6,9 @@ description: "ひとり親家庭が使える制度・手当を全部まとめま
 tags: ["ひとり親", "児童扶養手当", "シンママ", "節約", "制度", "手当"]
 categories: ["シンママ体験談"]
 featured: true
+cover:
+  image: /images/hitorioya-seido.png
+  alt: "ノート・チェックリスト・ペンのフラットレイ"
 ---
 
 離婚したとき、正直なところ「制度とか手当とかよくわからない」でした。

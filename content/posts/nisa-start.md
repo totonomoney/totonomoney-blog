@@ -6,6 +6,9 @@ description: "老後が怖くてNISAを調べ始めた40代シンママ。実は
 tags: ["NISA", "投資", "老後", "シンママ"]
 categories: ["お金・節約"]
 featured: true
+cover:
+  image: /images/nisa-start.png
+  alt: "植物・コイン・ノートのフラットレイ"
 ---
 
 投資を始めたのは、**離婚前**でした。

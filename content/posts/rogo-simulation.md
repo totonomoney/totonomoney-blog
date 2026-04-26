@@ -5,6 +5,9 @@ draft: false
 description: "老後は月20万円あればいい。FP2級シンママがNISA＋iDeCoで老後シミュレーションをしたら、年金をあてにしなくていい計算が出た話。"
 tags: ["老後", "NISA", "iDeCo", "シンママ", "資産形成", "FP2級"]
 categories: ["お金・節約"]
+cover:
+  image: /images/rogo-simulation.png
+  alt: "電卓・コイン・手帳のフラットレイ"
 ---
 
 「シンママの老後って、どうなるんだろう」

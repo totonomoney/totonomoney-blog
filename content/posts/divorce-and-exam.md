@@ -5,6 +5,9 @@ draft: false
 description: "2人の子どもが受験生だったあの年に、私は離婚した。シンママになった40代が、受験費用と当時の気持ちをリアルに語ります。"
 tags: ["体験談", "シンママ", "家計"]
 categories: ["シンママ体験談"]
+cover:
+  image: /images/divorce-and-exam.png
+  alt: "ノート・ペンのフラットレイ"
 ---
 
 正直に書きます。

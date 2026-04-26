@@ -5,6 +5,9 @@ draft: false
 description: "40代シンママが、お金と向き合いながら書くリアルなブログ。NISA・iDeCo・節約・ひとり親の制度まで、等身大の言葉で綴ります。"
 tags: ["ごあいさつ", "シンママ"]
 categories: ["シンママ体験談"]
+cover:
+  image: /images/hajimemashite.png
+  alt: "ノート・コーヒー・植物のフラットレイ"
 ---
 
 はじめまして、ととのえマネーです。

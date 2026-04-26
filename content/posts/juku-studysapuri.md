@@ -6,6 +6,9 @@ description: "次女の高校受験は塾なし・学校のワークだけで乗
 tags: ["受験", "塾代", "奨学金", "シンママ", "高校生", "医学部", "節約"]
 categories: ["シンママ体験談"]
 featured: true
+cover:
+  image: /images/juku-studysapuri.png
+  alt: "ワーク・鉛筆・消しゴムのフラットレイ"
 ---
 
 次女が高校受験をしたとき、塾には通わせませんでした。

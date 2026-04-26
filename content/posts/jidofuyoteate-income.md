@@ -5,6 +5,9 @@ draft: false
 description: "「働いたら児童扶養手当が減る」は本当？2026年度の所得制限・計算方法をFP2級シンママがわかりやすく解説。養育費がある場合の注意点も。"
 tags: ["児童扶養手当", "所得制限", "シンママ", "ひとり親", "FP2級"]
 categories: ["お金・節約"]
+cover:
+  image: /images/jidofuyoteate-income.png
+  alt: "財布・コイン・ノートのフラットレイ"
 ---
 
 「もっと働きたいけど、手当が減るのが怖い」
