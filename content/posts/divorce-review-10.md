@@ -205,6 +205,7 @@ cover:
 
 ## あわせて読みたい 📖
 
+- [離婚後に保険を見直した話](/posts/hoken-minaoshi/)
 - [スマホ代、家族3人で月1万円以下に。ワイモバイルに変えた話](/posts/sim-change/)
 - [ひとり親家庭がもらえるお金・制度まとめ](/posts/hitorioya-seido/)
 - [40代シンママがNISAを始めた理由](/posts/nisa-start/)

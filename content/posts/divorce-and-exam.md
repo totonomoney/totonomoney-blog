@@ -243,5 +243,5 @@ cover:
 ## あわせて読みたい 📖
 
 - [離婚後に見直したこと10選](/posts/divorce-review-10/)
-- [シンママのリアル家計公開](/posts/real-household-budget/)
+- [離婚後に保険を見直した話](/posts/hoken-minaoshi/)
 - [協議離婚でも養育費月20万円もらえた話](/posts/youikuhi/)
