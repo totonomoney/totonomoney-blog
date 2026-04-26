@@ -2,7 +2,7 @@
 title: "シンママの老後、いくら必要か計算してみた"
 date: 2026-04-28
 draft: false
-description: "老後は月20万円あればいい。FP2級シンママがNISA＋iDeCoで老後シミュレーションをしたら、年金をあてにしなくていい計算が出た話。"
+description: "老後は月20万円あればいい。シンママがNISA＋iDeCoで老後シミュレーションをしたら、年金をあてにしなくていい計算が出た話。"
 tags: ["老後", "NISA", "iDeCo", "シンママ", "資産形成", "FP2級"]
 categories: ["お金・節約"]
 cover:
