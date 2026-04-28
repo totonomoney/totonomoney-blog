@@ -67,11 +67,3 @@ theme = 'PaperMod'
     name = 'お問い合わせ'
     url = '/contact/'
     weight = 6
-  [[menu.main]]
-    name = '運営者情報'
-    url = '/operator/'
-    weight = 7
-  [[menu.main]]
-    name = 'プライバシーポリシー'
-    url = '/privacy-policy/'
-    weight = 8
