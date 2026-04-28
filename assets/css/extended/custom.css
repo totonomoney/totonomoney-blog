@@ -310,6 +310,22 @@ article.home-info .entry-content {
     margin-top: 0;
 }
 
+/* ホームチェックリスト */
+.home-checklist {
+    display: flex;
+    flex-direction: column;
+    gap: 0.45rem;
+    margin-top: 0.9rem;
+    padding-top: 0.9rem;
+    border-top: 1px dashed #D4BFA8;
+}
+
+.home-checklist span {
+    font-size: 0.88rem;
+    color: #6B5744;
+    line-height: 1.6;
+}
+
 /* ダークモード */
 .dark article.home-info {
     background: linear-gradient(135deg, #2A2420 0%, #251F1A 100%) !important;
