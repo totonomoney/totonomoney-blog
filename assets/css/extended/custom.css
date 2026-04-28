@@ -268,6 +268,16 @@ article.home-info:hover {
     box-shadow: 0 4px 20px rgba(122, 102, 82, 0.15) !important;
 }
 
+article.home-info::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: rgba(253, 248, 242, 0.72);
+    border-radius: 16px;
+    pointer-events: none;
+    z-index: 0;
+}
+
 article.home-info .entry-header,
 article.home-info .entry-content {
     position: relative;
