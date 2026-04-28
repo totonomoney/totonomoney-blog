@@ -311,19 +311,28 @@ article.home-info .entry-content {
 }
 
 /* ホームチェックリスト */
-.home-checklist {
-    display: flex;
-    flex-direction: column;
-    gap: 0.45rem;
-    margin-top: 0.9rem;
-    padding-top: 0.9rem;
-    border-top: 1px dashed #D4BFA8;
+.home-lead {
+    margin: 0 0 1rem !important;
+    font-size: 0.9rem;
+    color: #6B5744;
+    line-height: 1.9;
 }
 
-.home-checklist span {
+ul.home-check {
+    list-style: none !important;
+    padding: 0.9rem 0 0 !important;
+    margin: 0 !important;
+    border-top: 1px dashed #D4BFA8;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+ul.home-check li {
     font-size: 0.88rem;
     color: #6B5744;
     line-height: 1.6;
+    padding: 0 !important;
 }
 
 /* ダークモード */
