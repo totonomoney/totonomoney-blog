@@ -27,7 +27,7 @@ theme = 'PaperMod'
 
   [params.homeInfoParams]
     Title = 'ととのえマネーへようこそ 🌿'
-    Content = '離婚後、ゼロからお金を学んだ40代シンママです。<br>年金・税金・奨学金・養育費——知らないと損することだらけでした。<br><br><div class="home-checklist"><span>✅ 離婚を考えている・ひとり親になった</span><span>✅ シンママで将来のお金が不安</span><span>✅ お金を勉強したいけど難しそう</span></div>'
+    Content = '離婚後、ゼロからお金を学んだ40代シンママです。<br>年金・税金・奨学金・養育費——知らないと損することだらけでした。<br><br>✅ 離婚を考えている・ひとり親になった<br>✅ シンママで将来のお金が不安<br>✅ お金を勉強したいけど難しそう'
 
   [[params.socialIcons]]
     name = 'rss'
