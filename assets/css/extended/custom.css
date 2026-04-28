@@ -251,13 +251,11 @@ header.header {
 
 /* ===== ホームInfo ===== */
 article.home-info {
-    background-image: url('/images/home-bg.png') !important;
-    background-size: cover !important;
-    background-position: center !important;
+    background: linear-gradient(135deg, #FDF6EE 0%, #F5EDE0 60%, #EDE0D0 100%) !important;
     border: none !important;
     border-radius: 16px !important;
     padding: 2.4rem 2.4rem 2.2rem !important;
-    box-shadow: 0 4px 20px rgba(122, 102, 82, 0.15) !important;
+    box-shadow: 0 4px 20px rgba(122, 102, 82, 0.10) !important;
     margin-bottom: 2.5rem;
     position: relative;
     overflow: hidden;
@@ -265,23 +263,7 @@ article.home-info {
 
 article.home-info:hover {
     transform: none !important;
-    box-shadow: 0 4px 20px rgba(122, 102, 82, 0.15) !important;
-}
-
-article.home-info::before {
-    content: '';
-    position: absolute;
-    inset: 0;
-    background: rgba(253, 248, 242, 0.72);
-    border-radius: 16px;
-    pointer-events: none;
-    z-index: 0;
-}
-
-article.home-info .entry-header,
-article.home-info .entry-content {
-    position: relative;
-    z-index: 1;
+    box-shadow: 0 4px 20px rgba(122, 102, 82, 0.10) !important;
 }
 
 article.home-info .entry-header h1 {
@@ -294,13 +276,13 @@ article.home-info .entry-header h1 {
 }
 
 article.home-info .entry-content {
-    font-size: 0.9rem;
-    color: #4A3728;
-    line-height: 1.9;
+    font-size: 0.95rem;
+    color: #3A2A1E;
+    line-height: 2;
     border-top: 1px dashed #C4A88A;
     padding-top: 0.9rem;
     margin-top: 0;
-    text-shadow: 0 1px 3px rgba(255,255,255,0.8);
+    font-weight: 500;
 }
 
 /* ホームチェックリスト */
