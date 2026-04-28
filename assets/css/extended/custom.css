@@ -504,8 +504,21 @@ a:hover { color: var(--accent); }
 
 .post-content hr {
     border: none;
-    border-top: 1px solid var(--border);
-    margin: 2.5rem 0;
+    height: 1px;
+    background: linear-gradient(to right, transparent, #C8B4A0, transparent);
+    margin: 2.8rem auto;
+    width: 70%;
+}
+
+/* ===== 引用 ===== */
+.post-content blockquote {
+    border-left: 3px solid var(--accent);
+    background: var(--accent-light);
+    padding: 1rem 1.4rem;
+    margin: 1.8rem 0;
+    border-radius: 0 10px 10px 0;
+    font-style: normal;
+    color: var(--accent-dark);
 }
 
 /* ===== 表 ===== */
@@ -539,10 +552,11 @@ a:hover { color: var(--accent); }
 
 /* ===== TOC ===== */
 .toc {
-    border: 1px solid var(--border);
-    border-radius: 4px;
-    background: var(--accent-light);
-    padding: 16px 20px;
+    border: 1px solid #D4BFA8;
+    border-radius: 12px;
+    background: linear-gradient(135deg, #FDF6EE 0%, #F5EDE0 100%);
+    padding: 18px 22px;
+    margin: 1.8rem 0;
 }
 
 .toc details summary {
@@ -550,6 +564,36 @@ a:hover { color: var(--accent); }
     font-weight: 700;
     color: var(--accent-dark);
     letter-spacing: 0.05em;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.toc details summary::before {
+    content: '📋';
+    font-size: 0.95rem;
+}
+
+.toc details[open] summary {
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px dashed #D4BFA8;
+}
+
+.toc nav ul {
+    padding-left: 1rem;
+}
+
+.toc nav a {
+    color: var(--accent);
+    font-size: 0.85rem;
+    line-height: 1.9;
+}
+
+.toc nav a:hover {
+    color: var(--accent-dark);
+    text-decoration: underline;
 }
 
 /* ===== ページネーション ===== */
@@ -866,4 +910,154 @@ a:hover { color: var(--accent); }
 
 .dark .author-box-bio {
     color: #B8A090;
+}
+
+/* ===== 記事メタ（日付・読了時間）===== */
+.post-single .post-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    align-items: center;
+    font-size: 0.78rem;
+    color: var(--text-sub);
+    margin-bottom: 1.2rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px dashed var(--border);
+}
+
+/* ===== スマホ表示調整 ===== */
+@media (max-width: 640px) {
+    .post-title, h1.post-title {
+        font-size: 1.25rem !important;
+        line-height: 1.6 !important;
+    }
+
+    .post-content {
+        font-size: 0.92rem !important;
+        line-height: 1.95 !important;
+    }
+
+    .post-content h2 {
+        font-size: 1rem !important;
+        padding: 10px 14px;
+    }
+
+    .post-content h3 {
+        font-size: 0.95rem !important;
+    }
+
+    .entry-cover img {
+        height: 160px;
+    }
+
+    .toc {
+        padding: 14px 16px;
+    }
+
+    article.home-info {
+        padding: 1.6rem 1.4rem !important;
+    }
+
+    article.home-info .entry-header h1 {
+        font-size: 1.2rem !important;
+    }
+
+    .post-content table {
+        font-size: 0.8rem;
+        display: block;
+        overflow-x: auto;
+    }
+}
+
+/* ===== 自己紹介ページ プロフィールカード ===== */
+.about-card {
+    background: linear-gradient(135deg, #FDF6EE 0%, #F5EDE0 100%);
+    border: 1px solid #D4BFA8;
+    border-radius: 16px;
+    padding: 1.8rem 2rem;
+    margin: 1.5rem 0 2rem;
+    display: flex;
+    gap: 1.5rem;
+    align-items: center;
+}
+
+.about-card-avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    overflow: hidden;
+    flex-shrink: 0;
+    background: linear-gradient(135deg, #F5EDE0, #EDE0D0);
+    padding: 4px;
+    box-shadow: 0 4px 14px rgba(122,102,82,0.18);
+}
+
+.about-card-avatar img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center 15%;
+    transform: scale(1.3);
+    transform-origin: center 25%;
+    display: block;
+}
+
+.about-card-text h2 {
+    font-family: 'Shippori Mincho', serif !important;
+    font-size: 1.2rem !important;
+    color: var(--accent-dark) !important;
+    background: none !important;
+    border-left: none !important;
+    padding: 0 !important;
+    margin: 0 0 0.5rem !important;
+}
+
+.about-card-text p {
+    font-size: 0.88rem;
+    color: #6B5744;
+    line-height: 1.8;
+    margin: 0;
+}
+
+.about-stats {
+    display: flex;
+    gap: 1rem;
+    margin: 1.5rem 0;
+    flex-wrap: wrap;
+}
+
+.about-stat {
+    background: #fff;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 0.8rem 1.2rem;
+    text-align: center;
+    flex: 1;
+    min-width: 100px;
+}
+
+.about-stat-num {
+    font-family: 'Shippori Mincho', serif;
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--accent-dark);
+    display: block;
+}
+
+.about-stat-label {
+    font-size: 0.72rem;
+    color: var(--text-sub);
+    display: block;
+    margin-top: 2px;
+}
+
+@media (max-width: 600px) {
+    .about-card {
+        flex-direction: column;
+        text-align: center;
+    }
+    .about-stats {
+        justify-content: center;
+    }
 }

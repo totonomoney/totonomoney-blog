@@ -4,6 +4,18 @@ date: 2026-04-23
 draft: false
 ---
 
+<div class="about-card">
+<div class="about-card-avatar"><img src="/images/profile.png" alt="まゆみん"></div>
+<div class="about-card-text"><h2>まゆみん</h2><p>40代シンママ・FP2級取得。<br>離婚後にゼロからお金を学び、<br>実体験をもとに発信しています。</p></div>
+</div>
+
+<div class="about-stats">
+<div class="about-stat"><span class="about-stat-num">FP2級</span><span class="about-stat-label">資格</span></div>
+<div class="about-stat"><span class="about-stat-num">月20万</span><span class="about-stat-label">養育費（2人分）</span></div>
+<div class="about-stat"><span class="about-stat-num">月12.3万</span><span class="about-stat-label">NISA＋iDeCo</span></div>
+<div class="about-stat"><span class="about-stat-num">2人</span><span class="about-stat-label">子育て中</span></div>
+</div>
+
 ## はじめまして、まゆみんです
 
 「ととのえマネー」を書いています。40代シンママの**まゆみん**です。
