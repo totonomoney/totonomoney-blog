@@ -304,10 +304,18 @@ ul.home-check {
 }
 
 ul.home-check li {
-    font-size: 0.88rem;
-    color: #6B5744;
+    font-size: 0.9rem;
+    color: #5A3E2B;
+    font-weight: 500;
     line-height: 1.6;
-    padding: 0 !important;
+    padding: 0.35rem 0.7rem !important;
+    background: rgba(255,255,255,0.55);
+    border-radius: 8px;
+}
+
+/* ホームボックス内のRSSアイコン非表示 */
+article.home-info .social-icons {
+    display: none !important;
 }
 
 /* ダークモード */
