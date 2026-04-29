@@ -234,6 +234,6 @@ cover:
 
 ## あわせて読みたい 📖
 
+- [受験期に離婚…教育費はいくら？シンママが2人受験を乗り切った全内訳](/posts/divorce-and-exam/)
 - [離婚後に見直したこと10選](/posts/divorce-review-10/)
 - [高校受験は塾なし・学校のワークだけで合格。今は奨学金で塾へ](/posts/juku-studysapuri/)
-- [シンママのリアル家計公開](/posts/real-household-budget/)

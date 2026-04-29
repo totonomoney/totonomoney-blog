@@ -279,6 +279,6 @@ FP（ファイナンシャルプランナー）の資格勉強をしていたこ
 
 ## あわせて読みたい 📖
 
-- [シンママのリアル家計公開](/posts/real-household-budget/)
+- [受験期に離婚…教育費はいくら？シンママが2人受験を乗り切った全内訳](/posts/divorce-and-exam/)
 - [40代シンママがNISAを始めた理由](/posts/nisa-start/)
 - [ひとり親家庭がもらえるお金・制度まとめ](/posts/hitorioya-seido/)
