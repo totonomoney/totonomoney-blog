@@ -2,7 +2,13 @@
 title: "自己紹介"
 date: 2026-04-23
 draft: false
+description: "ととのえマネーを運営する40代シンママ・まゆみんの自己紹介。受験期に離婚し、FP2級を取得。シンママが直面するお金の悩みに実体験で答えるブログです。"
 ---
+
+<p style="background:#f5f5f0; border-left:4px solid #8c6d4f; padding:12px 16px; border-radius:4px; font-size:0.95em; line-height:1.8; margin-bottom:1.5em;">
+このブログは、<strong>シングルマザー・まゆみん（40代・FP2級）</strong>が運営しています。<br>
+子ども2人の受験期に離婚し、教育費・生活費・仕送りをひとりで乗り越えてきた実体験をもとに、「きれいごとじゃないお金の話」を発信しています。
+</p>
 
 <div class="about-card">
 <div class="about-card-avatar"><img src="/images/profile.png" alt="まゆみん"></div>
