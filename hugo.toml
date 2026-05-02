@@ -1,5 +1,6 @@
 baseURL = 'https://totonomoney-blog.pages.dev/'
 languageCode = 'ja'
+hasCJKLanguage = true
 title = 'ととのえマネー〜お金とゆっくり向き合うブログ〜'
 theme = 'PaperMod'
 
