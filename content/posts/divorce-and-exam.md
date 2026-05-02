@@ -5,6 +5,7 @@ draft: false
 description: "長女が大学受験・次女が高校受験の同じ年に離婚。受験費用・入学費用の実数と、固定費見直しで毎月3万円以上削減した方法をすべて公開します。"
 tags: ["体験談", "シンママ", "家計", "受験", "離婚", "教育費", "養育費", "節約"]
 categories: ["シンママ体験談"]
+featured: true
 cover:
   image: /images/divorce-and-exam.png
   alt: "ノート・ペンのフラットレイ"

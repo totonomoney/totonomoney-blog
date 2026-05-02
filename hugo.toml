@@ -27,7 +27,7 @@ theme = 'PaperMod'
 
   [params.homeInfoParams]
     Title = 'ととのえマネーへようこそ 🌿'
-    Content = '<p class="home-lead">離婚後、ゼロからお金を学んだ40代シンママです。<br>年金・税金・奨学金・養育費——知らないと損することだらけでした。</p><ul class="home-check"><li>✅ 離婚を考えている・ひとり親になった</li><li>✅ シンママで将来のお金が不安</li><li>✅ お金を勉強したいけど難しそう</li></ul>'
+    Content = '<p style="font-size:1.05em;line-height:1.8;margin-bottom:1em;">シングルマザーとして、教育費と家計に悩みながらも乗り切ってきた実体験をもとに、「無理しない節約」と「現実的なお金の考え方」を発信しています。</p><p style="margin-bottom:0.8em;"><strong>▼ はじめての方におすすめの記事</strong></p><ul style="margin-bottom:1.2em;padding-left:1.2em;"><li>👉 <a href="/posts/divorce-and-exam/">受験期に離婚…教育費はいくら？リアルな内訳</a></li><li>👉 <a href="/posts/sim-hikaku/">スマホ代を月5,000円下げた方法（格安SIMまとめ）</a></li><li>👉 <a href="/posts/hitorioya-seido/">ひとり親家庭がもらえるお金・制度まとめ</a></li></ul><p style="font-size:0.95em;color:#666;line-height:1.7;">こんにちは、まゆみんです。シングルマザーとして2人の子どもを育てながら、教育費・生活費・仕送りと向き合ってきました。「きれいごとじゃないお金の話」を同じように悩む方に届けたいと思っています。</p>'
 
   [[params.socialIcons]]
     name = 'rss'
@@ -48,22 +48,26 @@ theme = 'PaperMod'
     url = '/'
     weight = 1
   [[menu.main]]
+    name = 'はじめての方へ'
+    url = '/posts/hajimemashite/'
+    weight = 2
+  [[menu.main]]
     name = 'シンママ体験談'
     url = '/categories/シンママ体験談/'
-    weight = 2
+    weight = 3
   [[menu.main]]
     name = 'お金・節約'
     url = '/categories/お金・節約/'
-    weight = 3
+    weight = 4
   [[menu.main]]
     name = '記事一覧'
     url = '/posts/'
-    weight = 4
+    weight = 5
   [[menu.main]]
     name = '自己紹介'
     url = '/about/'
-    weight = 5
+    weight = 6
   [[menu.main]]
     name = 'お問い合わせ'
     url = '/contact/'
-    weight = 6
+    weight = 7
