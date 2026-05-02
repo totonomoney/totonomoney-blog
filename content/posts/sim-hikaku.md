@@ -20,6 +20,8 @@ cover:
 
 この記事では、実際に見直してわかった「おすすめの格安SIM」と選び方をまとめます。
 
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
 ---
 
 ## 結論：迷ったらこの3つでOK
@@ -53,7 +55,7 @@ cover:
 
 料金がシンプルで、毎月の請求が把握しやすいのも助かるポイントです。
 
-まずは公式サイトで料金の詳細を確認してみてください。
+<a href="★楽天モバイルASPリンク★" target="_blank" rel="nofollow sponsored">👉 楽天モバイルの公式サイトで料金を確認する</a>
 
 ---
 
@@ -69,7 +71,7 @@ cover:
 
 使わない月は安く、必要な月は増量できる柔軟さがあります。
 
-まずは公式サイトで今の料金と比較してみるのがおすすめです。
+<a href="★IIJmioASPリンク★" target="_blank" rel="nofollow sponsored">👉 IIJmioの公式サイトでプランを比較する</a>
 
 ---
 
@@ -83,7 +85,7 @@ cover:
 
 「格安SIMは初めて」「手続きが不安」という方にはmineoが向いています。
 
-まずは公式サイトでプランを確認してみてください。
+<a href="★mineoASPリンク★" target="_blank" rel="nofollow sponsored">👉 mineoの公式サイトでプランを確認する</a>
 
 ---
 
@@ -109,6 +111,14 @@ cover:
 
 ---
 
+<div style="background:#f0f7ee; border-left:4px solid #4caf50; padding:16px; margin:24px 0; border-radius:4px;">
+  <p style="font-weight:bold; margin-bottom:8px;">📱 気になるサービスを公式サイトで確認する</p>
+  <p style="font-size:14px; margin-bottom:12px;">今の料金と比較するだけでOKです。手続きは1日で終わります。</p>
+  <p style="margin-bottom:6px;"><a href="★楽天モバイルASPリンク★" target="_blank" rel="nofollow sponsored" style="color:#2e7d32; font-weight:bold;">👉 楽天モバイルの料金を確認する（データ無制限）</a></p>
+  <p style="margin-bottom:6px;"><a href="★IIJmioASPリンク★" target="_blank" rel="nofollow sponsored" style="color:#2e7d32; font-weight:bold;">👉 IIJmioのプランを比較する（最安クラス）</a></p>
+  <p style="margin-bottom:0;"><a href="★mineoASPリンク★" target="_blank" rel="nofollow sponsored" style="color:#2e7d32; font-weight:bold;">👉 mineoのプランを確認する（初めての方向け）</a></p>
+</div>
+
 ## まとめ
 
 スマホ代は「一度見直すだけ」で毎月の負担を減らせます。
@@ -126,5 +136,5 @@ cover:
 ## あわせて読みたい 📖
 
 - [受験期に離婚…教育費はいくら？シンママが2人受験を乗り切った全内訳](/posts/divorce-and-exam/)
-- [スマホ代を家族3人で月1万円以下に節約した方法](/posts/sim-change/)
-- [ひとり親家庭がもらえるお金・制度まとめ](/posts/hitorioya-seido/)
+- [クレジットカード1枚にしたら年間2万円差｜シンママのリアル公開](/posts/credit-card-1mai/)
+- [シンママがマネーフォワードMEを使い続ける理由](/posts/moneyforward-me/)

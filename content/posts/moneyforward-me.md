@@ -12,6 +12,8 @@ cover:
 
 こんにちは、まゆみんです。
 
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
 離婚が成立したとき、頭の中にあったのは子どものことだけでした。
 
 でも少し落ち着いたとき、ふと気づきました。
@@ -203,6 +205,12 @@ cover:
 
 ---
 
+<div style="background:#f0f7ee; border-left:4px solid #4caf50; padding:16px; margin:24px 0; border-radius:4px;">
+  <p style="font-weight:bold; margin-bottom:8px;">💰 マネーフォワードMEを試してみる</p>
+  <p style="font-size:14px; margin-bottom:12px;">無料プランでも銀行・クレカを連携して家計の全体像を把握できます。まず無料で試して、続けられそうならプレミアムへ。</p>
+  <a href="★マネーフォワードMEアフィリエイトリンク★" target="_blank" rel="nofollow sponsored" style="background:#4caf50; color:white; padding:10px 20px; border-radius:4px; text-decoration:none; display:inline-block;">👉 無料で使ってみる</a>
+</div>
+
 ## まとめ
 
 - 離婚後から**マネーフォワードME**のプレミアムプランを使っている
@@ -215,7 +223,7 @@ cover:
 
 まだ使っていない方は、まず無料プランから試してみてください 🌿
 
-👉 [マネーフォワードME 公式サイト](https://moneyforward.com/me)
+<a href="★マネーフォワードMEアフィリエイトリンク★" target="_blank" rel="nofollow sponsored">👉 マネーフォワードME 公式サイトを確認する</a>
 
 ---
 
@@ -225,6 +233,6 @@ cover:
 
 ## あわせて読みたい 📖
 
-- [40代シンママがNISAを始めた理由](/posts/nisa-start/)
-- [知らないと損！iDeCoが子どもの奨学金に影響する理由](/posts/ideco-scholarship/)
-- [ひとり親家庭がもらえるお金・制度まとめ](/posts/hitorioya-seido/)
+- [スマホ代を月5,000円下げた方法（格安SIM比較）](/posts/sim-hikaku/)
+- [クレジットカード1枚にしたら年間2万円差｜シンママのリアル公開](/posts/credit-card-1mai/)
+- [受験期に離婚…教育費はいくら？シンママが2人受験を乗り切った全内訳](/posts/divorce-and-exam/)
