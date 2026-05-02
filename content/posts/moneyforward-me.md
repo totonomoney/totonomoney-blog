@@ -208,7 +208,7 @@ cover:
 <div style="background:#f0f7ee; border-left:4px solid #4caf50; padding:16px; margin:24px 0; border-radius:4px;">
   <p style="font-weight:bold; margin-bottom:8px;">💰 マネーフォワードMEを試してみる</p>
   <p style="font-size:14px; margin-bottom:12px;">無料プランでも銀行・クレカを連携して家計の全体像を把握できます。まず無料で試して、続けられそうならプレミアムへ。</p>
-  <a href="★マネーフォワードMEアフィリエイトリンク★" target="_blank" rel="nofollow sponsored" style="background:#4caf50; color:white; padding:10px 20px; border-radius:4px; text-decoration:none; display:inline-block;">👉 無料で使ってみる</a>
+  <a href="https://moneyforward.com/me" target="_blank" rel="nofollow" style="background:#4caf50; color:white; padding:10px 20px; border-radius:4px; text-decoration:none; display:inline-block;">👉 無料で使ってみる</a>
 </div>
 
 ## まとめ
@@ -223,7 +223,7 @@ cover:
 
 まだ使っていない方は、まず無料プランから試してみてください 🌿
 
-<a href="★マネーフォワードMEアフィリエイトリンク★" target="_blank" rel="nofollow sponsored">👉 マネーフォワードME 公式サイトを確認する</a>
+<a href="https://moneyforward.com/me" target="_blank" rel="nofollow">👉 マネーフォワードME 公式サイトを確認する</a>
 
 ---
 
