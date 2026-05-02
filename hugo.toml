@@ -58,7 +58,7 @@ theme = 'PaperMod'
     weight = 3
   [[menu.main]]
     name = 'お金・節約'
-    url = '/categories/お金・節約/'
+    url = '/categories/お金節約/'
     weight = 4
   [[menu.main]]
     name = '記事一覧'
