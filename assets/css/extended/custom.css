@@ -955,6 +955,85 @@ a:hover { color: var(--accent); }
         display: block;
         overflow-x: auto;
     }
+
+    .author-box-inner {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .author-box-avatar {
+        width: 72px !important;
+        height: 72px !important;
+        margin: 0 auto 12px !important;
+    }
+}
+
+/* ===== 著者ボックス ===== */
+.author-box {
+    margin: 2.5em 0 2em;
+    padding: 1.6em 1.8em;
+    background: #F8F3EA;
+    border: 1px solid #C8A96E;
+    border-radius: 8px;
+}
+
+.author-box-inner {
+    display: flex;
+    align-items: center;
+    gap: 1.4em;
+}
+
+.author-box-avatar {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    flex-shrink: 0;
+    border: 2px solid #C8A96E;
+}
+
+.author-box-name {
+    font-size: 1.05em;
+    font-weight: bold;
+    color: #3D2B1F;
+    margin-bottom: 2px;
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+}
+
+.author-box-badge {
+    font-size: 0.72em;
+    font-weight: bold;
+    color: #fff;
+    background: #C8A96E;
+    padding: 2px 8px;
+    border-radius: 20px;
+    letter-spacing: 0.05em;
+}
+
+.author-box-title {
+    font-size: 0.82em;
+    color: #8B6A50;
+    margin-bottom: 6px;
+}
+
+.author-box-bio {
+    font-size: 0.88em;
+    color: #5C4033;
+    line-height: 1.75;
+    margin: 0 0 8px;
+}
+
+.author-box-link {
+    font-size: 0.85em;
+    color: #C8A96E;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.author-box-link:hover {
+    text-decoration: underline;
 }
 
 /* ===== 自己紹介ページ プロフィールカード ===== */
