@@ -221,6 +221,6 @@ NISAを使えば、この税金がかかりません。
 
 ## あわせて読みたい 📖
 
+- [学資保険に入らなかった理由｜FP2級シンママがNISAで教育費を準備する](/posts/gakushi-hoken-nisa/)
 - [SBI証券でNISAを始めた話｜口座開設の手順と私が使い続ける理由](/posts/sbi-nisa-account/)
 - [シングルマザーの教育費はいくら？高校〜大学のリアルと内訳](/posts/kyoiku-hi-matome/)
-- [シンママの老後、いくら必要か計算してみた](/posts/rogo-simulation/)

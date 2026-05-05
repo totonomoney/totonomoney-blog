@@ -286,7 +286,6 @@ FP3級は離婚前に取得していました。
 
 ## あわせて読みたい 📖
 
+- [弁護士を入れて養育費月20万円を確保した話](/posts/youikuhi/)
 - [シンママが離婚後に保険を見直した結果](/posts/hoken-minaoshi/)
-- [スマホ代を家族3人で月1万円以下に節約した方法](/posts/sim-change/)
 - [ひとり親家庭がもらえるお金・制度まとめ](/posts/hitorioya-seido/)
-- [40代シンママがNISAを始めた理由](/posts/nisa-start/)

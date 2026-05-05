@@ -240,6 +240,6 @@ FP2級を勉強して変わったのは、
 
 ## あわせて読みたい 📖
 
+- [SBI証券でNISAを始めた話｜口座開設の手順と私が使い続ける理由](/posts/sbi-nisa-account/)
 - [年金も税金もわからなかった私がFP2級を取った話](/posts/fp2-study/)
 - [知らないと損！iDeCoが子どもの奨学金に影響する理由](/posts/ideco-scholarship/)
-- [シンママのリアル家計公開](/posts/real-household-budget/)

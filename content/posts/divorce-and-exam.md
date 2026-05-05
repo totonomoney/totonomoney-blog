@@ -231,5 +231,5 @@ FP2級を取ってからそうなりました。
 ## あわせて読みたい 📖
 
 - [協議離婚でも養育費月20万円もらえた話](/posts/youikuhi/)
+- [離婚後にやること一覧｜手続きチェックリスト](/posts/rikon-tetsuzuki/)
 - [ひとり親家庭がもらえるお金・制度まとめ](/posts/hitorioya-seido/)
-- [シンママの離婚後にやってよかったこと10選](/posts/divorce-review-10/)

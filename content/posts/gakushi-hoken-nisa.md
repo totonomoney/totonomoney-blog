@@ -173,6 +173,6 @@ NISAで積み立てたお金は、教育費に使ってもいいし、
 
 ## あわせて読みたい 📖
 
+- [学資保険をやめてNISAにした話｜解約手続きと切り替えの実体験](/posts/gakushi-hoken-vs-nisa/)
 - [40代シンママがNISAを始めた理由](/posts/nisa-start/)
 - [知らないと損！iDeCoが子どもの奨学金に影響する理由](/posts/ideco-scholarship/)
-- [シンママになって変えたお金の使い方7つ](/posts/okane-tsukaikata-change/)
