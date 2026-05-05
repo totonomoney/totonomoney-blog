@@ -191,7 +191,7 @@ NISAを使えば、この税金がかかりません。
 <div style="background:#f8f3ea;border:1px solid #c8a96e;padding:1.4em 1.8em;margin:2em 0;border-radius:6px;">
 <p style="margin:0 0 0.5em;font-weight:bold;font-size:1.05em;">▶ SBI証券でNISAを始める（無料・スマホで完結）</p>
 <p style="margin:0 0 0.8em;font-size:0.95em;">eMAXIS Slim 全世界株式など低コスト投信が豊富。NISAとiDeCoをまとめて管理できます。口座開設・維持費0円。</p>
-<p style="margin:0;"><a href="★SBI証券ASPリンク★" target="_blank" rel="nofollow sponsored">👉 SBI証券の口座開設はこちら（無料）</a></p>
+<p style="margin:0;"><a href="https://www.sbisec.co.jp/" target="_blank" rel="nofollow sponsored">👉 SBI証券の口座開設はこちら（無料）</a></p>
 </div>
 
 ---

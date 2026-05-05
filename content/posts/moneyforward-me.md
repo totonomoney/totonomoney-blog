@@ -226,7 +226,7 @@ cover:
 <div style="background:#f0f7ee; border-left:4px solid #4caf50; padding:16px; margin:24px 0; border-radius:4px;">
   <p style="font-weight:bold; margin-bottom:8px;">📈 NISAを始めるならSBI証券</p>
   <p style="font-size:14px; margin-bottom:12px;">私もSBI証券でNISAを運用中。マネーフォワードMEとの連携も簡単で、資産の変化がアプリ一つで確認できます。口座開設は無料。</p>
-  <a href="★SBI証券ASPリンク★" target="_blank" rel="nofollow" style="background:#4caf50; color:white; padding:10px 20px; border-radius:4px; text-decoration:none; display:inline-block;">👉 SBI証券で口座開設する（無料）</a>
+  <a href="https://www.sbisec.co.jp/" target="_blank" rel="nofollow" style="background:#4caf50; color:white; padding:10px 20px; border-radius:4px; text-decoration:none; display:inline-block;">👉 SBI証券で口座開設する（無料）</a>
 </div>
 
 ## まとめ

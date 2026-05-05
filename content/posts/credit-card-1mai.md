@@ -97,7 +97,7 @@ cover:
 
 楽天をよく使う方は還元率がさらに上がる場面もあり、コスパが高いです。
 
-<a href="★楽天カードASPリンク★" target="_blank" rel="nofollow sponsored">👉 楽天カードの公式サイトで詳細を確認する（年会費永年無料）</a>
+<a href="https://www.rakuten-card.co.jp/" target="_blank" rel="nofollow sponsored">👉 楽天カードの公式サイトで詳細を確認する（年会費永年無料）</a>
 
 ### ② イオンカード（生活費中心の方向け）
 
@@ -142,7 +142,7 @@ cover:
 <div style="background:#fff8f0; border-left:4px solid #e07b39; padding:16px; margin:24px 0; border-radius:4px;">
   <p style="font-weight:bold; margin-bottom:8px;">💳 まずは楽天カードから試してみる</p>
   <p style="font-size:14px; margin-bottom:12px;">年会費永年無料・還元率1%。迷ったらこれで間違いありません。</p>
-  <a href="★楽天カードASPリンク★" target="_blank" rel="nofollow sponsored" style="background:#e07b39; color:white; padding:10px 20px; border-radius:4px; text-decoration:none; display:inline-block;">👉 楽天カードの公式サイトを確認する</a>
+  <a href="https://www.rakuten-card.co.jp/" target="_blank" rel="nofollow sponsored" style="background:#e07b39; color:white; padding:10px 20px; border-radius:4px; text-decoration:none; display:inline-block;">👉 楽天カードの公式サイトを確認する</a>
 </div>
 
 ## まとめ
