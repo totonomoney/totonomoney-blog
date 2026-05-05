@@ -211,6 +211,24 @@ cover:
   <a href="https://moneyforward.com/me" target="_blank" rel="nofollow" style="background:#4caf50; color:white; padding:10px 20px; border-radius:4px; text-decoration:none; display:inline-block;">👉 無料で使ってみる</a>
 </div>
 
+---
+
+## マネーフォワードMEに連携するなら、NISA口座はSBI証券がおすすめ
+
+マネーフォワードMEと連携している口座の中で、一番「増えているのが見えて嬉しい」と感じるのがNISA口座です。
+
+私はSBI証券でNISAを運用していますが、マネーフォワードMEとの連携も簡単でした。
+
+積み立てが少しずつ増えていく様子をアプリ上でリアルタイムに確認できるのは、続けるモチベーションになっています。
+
+「老後のために積み立てたい」「まずNISA口座を作りたい」という方には、SBI証券をおすすめしています。
+
+<div style="background:#f0f7ee; border-left:4px solid #4caf50; padding:16px; margin:24px 0; border-radius:4px;">
+  <p style="font-weight:bold; margin-bottom:8px;">📈 NISAを始めるならSBI証券</p>
+  <p style="font-size:14px; margin-bottom:12px;">私もSBI証券でNISAを運用中。マネーフォワードMEとの連携も簡単で、資産の変化がアプリ一つで確認できます。口座開設は無料。</p>
+  <a href="★SBI証券ASPリンク★" target="_blank" rel="nofollow" style="background:#4caf50; color:white; padding:10px 20px; border-radius:4px; text-decoration:none; display:inline-block;">👉 SBI証券で口座開設する（無料）</a>
+</div>
+
 ## まとめ
 
 - 離婚後から**マネーフォワードME**のプレミアムプランを使っている
