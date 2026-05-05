@@ -23,7 +23,7 @@
 <div class="sidebar-widget">
     <h3 class="sidebar-title">最新記事</h3>
     <ul class="sidebar-posts">
-        {{ range first 5 (where site.RegularPages "Type" "posts") }}
+        {{ range first 5 ((where site.RegularPages "Type" "posts").ByDate.Reverse) }}
         <li>
             <a href="{{ .Permalink }}">{{ .Title }}</a>
         </li>
