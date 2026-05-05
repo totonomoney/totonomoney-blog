@@ -6,7 +6,7 @@ description: "ひとり親家庭の高校生が給付型奨学金を申請する
 tags: ["奨学金", "給付型奨学金", "高校生", "ひとり親", "シンママ", "教育費"]
 categories: ["シンママ体験談"]
 cover:
-  image: /images/shogakukin-multiple.png
+  image: /images/shougakukin-apply.png
   alt: "ノート・ペン・コインのフラットレイ"
 ---
 
