@@ -333,35 +333,6 @@ article.home-info .social-icons {
     border-top-color: #4A3A2A !important;
 }
 
-/* ===== 記事カードレイアウト ===== */
-@media (min-width: 640px) {
-    .main > article {
-        display: block;
-    }
-}
-
-/* ホームページではグリッドを解除して縦並びに */
-.home .main {
-    display: block !important;
-    grid-template-columns: unset !important;
-}
-
-/* モバイル：すべて1カラム */
-.recent-posts-title,
-.featured-section,
-.post-entry,
-.first-entry {
-    grid-column: 1 / -1;
-}
-
-/* PC（640px以上）：記事カードは2カラムに戻す */
-@media (min-width: 640px) {
-    .post-entry,
-    .first-entry {
-        grid-column: auto;
-    }
-}
-
 /* ===== 記事カード ===== */
 .post-entry {
     background: var(--card-bg) !important;
