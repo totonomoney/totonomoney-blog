@@ -1126,6 +1126,20 @@ a:hover { color: var(--accent); }
     }
 }
 
+/* ===== フッター免責文 ===== */
+.footer-disclaimer {
+    font-size: 0.78em;
+    color: #9a8070;
+    text-align: center;
+    padding: 0.8em 1.5em;
+    margin-bottom: 0.5em;
+    line-height: 1.7;
+}
+.footer-disclaimer a {
+    color: #9a8070;
+    text-decoration: underline;
+}
+
 /* ===== コードブロック（計算式など） ===== */
 .post-content pre {
     background: #F0E8D8 !important;
