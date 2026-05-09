@@ -24,7 +24,7 @@
     {{ partialCached "header.html" . .Page -}}
 
     <div class="site-wrapper">
-        <main class="main">
+        <main class="main{{ if .IsHome }} home{{ end }}">
             {{- block "main" . }}{{ end }}
         </main>
         <aside class="sidebar">
