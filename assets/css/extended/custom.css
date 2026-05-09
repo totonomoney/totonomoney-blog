@@ -353,6 +353,13 @@ article.home-info .social-icons {
         grid-column: 1 / -1;
         width: 100%;
     }
+
+    /* 新着タイトル・おすすめ記事・ページネーションは全幅 */
+    .recent-posts-title,
+    .featured-section,
+    footer.page-footer {
+        grid-column: 1 / -1;
+    }
 }
 
 /* ===== 記事カード ===== */
