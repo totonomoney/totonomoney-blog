@@ -4,7 +4,8 @@ hasCJKLanguage = true
 title = 'ととのえマネー〜お金とゆっくり向き合うブログ〜'
 theme = 'PaperMod'
 buildFuture = true
-paginate = 10
+[pagination]
+pagerSize = 10
 
 [services]
   [services.googleAnalytics]
