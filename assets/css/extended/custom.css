@@ -333,32 +333,10 @@ article.home-info .social-icons {
     border-top-color: #4A3A2A !important;
 }
 
-/* ===== 2カラム グリッド（ホーム一覧のみ）===== */
+/* ===== 記事カードレイアウト ===== */
 @media (min-width: 640px) {
-    .main {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        gap: 24px;
-        align-items: start;
-    }
-
-    .first-entry {
-        grid-column: 1 / -1;
-    }
-
-    /* 記事ページ・固定ページは全幅で表示 */
-    .post-single,
-    .page-single,
-    article.home-info {
-        grid-column: 1 / -1;
-        width: 100%;
-    }
-
-    /* 新着タイトル・おすすめ記事・ページネーションは全幅 */
-    .recent-posts-title,
-    .featured-section,
-    footer.page-footer {
-        grid-column: 1 / -1;
+    .main > article {
+        display: block;
     }
 }
 
