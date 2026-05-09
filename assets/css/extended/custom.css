@@ -362,6 +362,22 @@ article.home-info .social-icons {
     }
 }
 
+/* モバイル：すべて1カラム */
+.recent-posts-title,
+.featured-section,
+.post-entry,
+.first-entry {
+    grid-column: 1 / -1;
+}
+
+/* PC（640px以上）：記事カードは2カラムに戻す */
+@media (min-width: 640px) {
+    .post-entry,
+    .first-entry {
+        grid-column: auto;
+    }
+}
+
 /* ===== 記事カード ===== */
 .post-entry {
     background: var(--card-bg) !important;
