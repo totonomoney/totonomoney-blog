@@ -229,6 +229,8 @@ cover:
   <a href="https://www.sbisec.co.jp/" target="_blank" rel="nofollow" style="background:#4caf50; color:white; padding:10px 20px; border-radius:4px; text-decoration:none; display:inline-block;">👉 SBI証券で口座開設する（無料）</a>
 </div>
 
+SBI証券でNISAを始めた話は[SBI証券でNISAを始めた話｜口座開設の手順と私が使い続ける理由](/posts/sbi-nisa-account/)で詳しく書いています。
+
 ## まとめ
 
 - 離婚後から**マネーフォワードME**のプレミアムプランを使っている

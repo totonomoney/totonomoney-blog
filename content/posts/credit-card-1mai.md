@@ -145,6 +145,8 @@ cover:
   <a href="https://www.rakuten-card.co.jp/" target="_blank" rel="nofollow sponsored" style="background:#e07b39; color:white; padding:10px 20px; border-radius:4px; text-decoration:none; display:inline-block;">👉 楽天カードの公式サイトを確認する</a>
 </div>
 
+固定費の見直し全体は[離婚後に見直したこと10選](/posts/divorce-review-10/)もあわせてどうぞ。
+
 ## まとめ
 
 クレジットカードは「増やす」より**「絞る」**だけで変わります。
