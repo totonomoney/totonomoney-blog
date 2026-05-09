@@ -5,7 +5,7 @@ draft: false
 featured: true
 description: "ひとり親家庭の高校生・大学生が使える給付型奨学金を財団別にまとめました。返済不要の奨学金を申請する前にまず読んでください。シンママが実際に申請した経験をもとに解説します。"
 tags: ["奨学金", "給付型奨学金", "高校生", "大学費用", "シンママ", "教育費", "ひとり親"]
-categories: ["お金の知識"]
+categories: ["お金・節約"]
 cover:
   image: /images/shogakukin-kyufu-matome.png
   alt: "本・ペン・証書のフラットレイ"
