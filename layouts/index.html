@@ -15,6 +15,7 @@
 {{- end }}
 
 {{- if and .IsHome (eq $paginator.PageNumber 1) }}
+<div style="clear:both; width:100%;">
 <h2 class="recent-posts-title">📝 新着記事</h2>
 {{- end }}
 
@@ -56,7 +57,10 @@
 {{- end }}
 
 {{- if and .IsHome (eq $paginator.PageNumber 1) }}
+</div>
+<div style="clear:both; width:100%; margin-top:2rem;">
 {{- partial "featured-posts.html" . }}
+</div>
 {{- end }}
 
 {{- if gt $paginator.TotalPages 1 }}
