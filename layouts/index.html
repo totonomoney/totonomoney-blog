@@ -15,10 +15,6 @@
 {{- end }}
 
 {{- if and .IsHome (eq $paginator.PageNumber 1) }}
-{{- partial "featured-posts.html" . }}
-{{- end }}
-
-{{- if and .IsHome (eq $paginator.PageNumber 1) }}
 <h2 class="recent-posts-title">📝 新着記事</h2>
 {{- end }}
 
@@ -57,6 +53,10 @@
   {{- end }}
   <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
 </article>
+{{- end }}
+
+{{- if and .IsHome (eq $paginator.PageNumber 1) }}
+{{- partial "featured-posts.html" . }}
 {{- end }}
 
 {{- if gt $paginator.TotalPages 1 }}
