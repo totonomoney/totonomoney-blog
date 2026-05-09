@@ -362,6 +362,12 @@ article.home-info .social-icons {
     }
 }
 
+/* ホームページではグリッドを解除して縦並びに */
+.home .main {
+    display: block !important;
+    grid-template-columns: unset !important;
+}
+
 /* モバイル：すべて1カラム */
 .recent-posts-title,
 .featured-section,
