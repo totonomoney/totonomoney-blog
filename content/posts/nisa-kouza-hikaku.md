@@ -5,6 +5,9 @@ draft: false
 categories: ["投資（NISA・iDeCo）", "お金・節約"]
 tags: ["NISA", "SBI証券", "楽天証券", "投資初心者", "シンママ"]
 description: "シンママ目線でSBI証券と楽天証券を比較しました。FP2級のまゆみんが実際にSBI証券を選んだ理由と、シンママが口座選びで確認すべきポイントを解説します。"
+cover:
+  image: /images/nisa-kouza-hikaku.png
+  alt: "シンママがNISA口座を選ぶならどこ？"
 ---
 
 こんにちは、まゆみんです。
