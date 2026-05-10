@@ -32,7 +32,7 @@ pagerSize = 10
 
   [params.homeInfoParams]
     Title = 'ととのえマネーへようこそ 🌿'
-    Content = '<p style="font-size:1.15em;font-weight:bold;line-height:2;margin-bottom:1.2em;color:#555;">お金のことを、誰にも頼れない。<br>だから、自分で学んだ。</p><p style="font-size:1.05em;line-height:1.8;margin-bottom:1em;">シングルマザーとして、教育費と家計に悩みながらも乗り切ってきた実体験をもとに、「無理しない節約」と「現実的なお金の考え方」を発信しています。</p><p style="margin-bottom:0.8em;"><strong>▼ よく読まれている記事</strong></p><ul style="margin-bottom:1.2em;padding-left:1.2em;"><li>👉 <a href="/posts/sim-hikaku/">スマホ代を月5,000円下げた方法（格安SIM比較）</a></li><li>👉 <a href="/posts/credit-card-1mai/">クレジットカード1枚にしたら年間2万円差</a></li><li>👉 <a href="/posts/moneyforward-me/">シンママがマネーフォワードMEを使い続ける理由</a></li></ul><p style="font-size:0.95em;color:#666;line-height:1.7;">こんにちは、まゆみんです。シングルマザーとして2人の子どもを育てながら、教育費・生活費・仕送りと向き合ってきました。「きれいごとじゃないお金の話」を同じように悩む方に届けたいと思っています。</p>'
+    Content = '<p style="font-size:1.15em;font-weight:bold;line-height:2;margin-bottom:1.2em;color:#555;">お金のことを、誰にも頼れない。<br>だから、自分で学んだ。</p><p style="font-size:1.05em;line-height:1.8;margin-bottom:1em;">シングルマザーとして、教育費と家計に悩みながらも乗り切ってきた実体験をもとに、「無理しない節約」と「現実的なお金の考え方」を発信しています。</p><p style="margin-bottom:0.8em;"><strong>▼ よく読まれている記事</strong></p><ul style="margin-bottom:1.2em;padding-left:1.2em;"><li>👉 <a href="/posts/hitorioya-seido/">申請しないと損するお金がある｜ひとり親家庭が使える制度を全部まとめた</a></li><li>👉 <a href="/posts/shokugyo-kunren-kyufukin/">受講料85万円が、給付金145万円になって戻ってきた話</a></li><li>👉 <a href="/posts/youikuhi/">弁護士費用160万円かけて、養育費月20万円を取りに行った話</a></li></ul><p style="font-size:0.95em;color:#666;line-height:1.7;">こんにちは、まゆみんです。シングルマザーとして2人の子どもを育てながら、教育費・生活費・仕送りと向き合ってきました。「きれいごとじゃないお金の話」を同じように悩む方に届けたいと思っています。</p>'
 
   [[params.socialIcons]]
     name = 'rss'
