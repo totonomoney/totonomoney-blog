@@ -12,6 +12,10 @@ cover:
 
 こんにちは、まゆみんです。
 
+マネーフォワードMEを使い始めてから、家計管理が変わりました。
+
+通帳記帳もExcelも不要。銀行・クレカ・NISA・iDeCoを全部連携して、資産が一目でわかる状態になりました。
+
 <p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
 
 離婚が成立したとき、頭の中にあったのは子どものことだけでした。
