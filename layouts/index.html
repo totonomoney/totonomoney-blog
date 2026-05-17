@@ -15,6 +15,17 @@
 {{- end }}
 
 {{- if and .IsHome (eq $paginator.PageNumber 1) }}
+<div style="margin: 1.5rem 0;">
+  <a href="/posts/hitorioya-seido/" style="
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    background: #2e2e33;
+    color: #fff;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 15px;
+  ">まずはここから読む →</a>
+</div>
 <h2 class="recent-posts-title">📝 新着記事</h2>
 {{- end }}
 
