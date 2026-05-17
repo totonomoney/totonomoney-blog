@@ -4,6 +4,7 @@ hasCJKLanguage = true
 title = 'ととのえマネー〜お金とゆっくり向き合うブログ〜'
 theme = 'PaperMod'
 buildFuture = true
+enableRobotsTXT = true
 [pagination]
 pagerSize = 10
 
