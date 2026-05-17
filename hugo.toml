@@ -13,6 +13,7 @@ pagerSize = 10
     ID = 'G-21974L4Y3M'
 
 [params]
+  twitterCards = true
   mainSections = ["posts"]
   description = 'シンママ40代のお金・投資・副業ブログ'
   author = 'ととのえマネー'
