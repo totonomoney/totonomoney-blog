@@ -1,5 +1,5 @@
 ---
-title: "シンママがNISA口座を選ぶならどこ？SBI証券と楽天証券をFP2級が比較した結果"
+title: "シンママのNISA口座比較｜SBI証券vs楽天証券をFP2級が選んだ結果"
 date: 2026-05-07
 draft: false
 categories: ["投資（NISA・iDeCo）", "お金・節約"]
