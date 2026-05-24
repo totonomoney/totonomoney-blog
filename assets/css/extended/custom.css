@@ -508,8 +508,8 @@ a:hover { color: var(--accent); }
 }
 
 .post-content table th {
-    background: var(--accent);
-    color: #fff;
+    background: var(--accent-light);
+    color: var(--accent-dark);
     padding: 10px 16px;
     font-size: 0.85rem;
     font-weight: 700;
