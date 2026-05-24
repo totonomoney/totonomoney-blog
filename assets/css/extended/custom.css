@@ -491,10 +491,14 @@ a:hover { color: var(--accent); }
 /* ===== 表 ===== */
 .post-content table {
     border-radius: 4px;
-    overflow: hidden;
-    width: 100%;
     border-collapse: collapse;
     border: 1px solid var(--border);
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    max-width: 100%;
+    width: max-content;
+    min-width: 100%;
 }
 
 .post-content table th {
