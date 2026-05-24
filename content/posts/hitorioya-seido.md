@@ -247,6 +247,26 @@ iDeCoを活用すると所得控除がさらに広がります。[iDeCoが子ど
 
 ---
 
+## 10. ひとり親家庭こそ「保険の見直し」もセットで
+
+制度の話とは少し離れますが、ひとり親家庭でいちばん家計を圧迫しがちなのが「なんとなく入ったまま」の保険です。
+
+私自身、離婚前は月4〜5万円の保険料を払っていましたが、見直し後は数千円台になりました。年間で30万円以上の差です。
+
+児童扶養手当や控除で「もらえるお金・減らせる税金」を取り戻したら、次は「払いすぎているお金」も同じ目線で見直してみてください。
+
+中立な立場のFPが、無料で一緒に整理してくれます。話を聞くだけで終わってOK、オンライン相談も選べます。
+
+<div style="background:#f0f8ff;border:1px solid #7ab3d0;padding:1.4em 1.8em;margin:2em 0;border-radius:6px;">
+<p style="margin:0 0 0.5em;font-weight:bold;font-size:1.05em;">▶ 生命保険の無料相談 ― みんなの生命保険アドバイザー</p>
+<p style="margin:0 0 0.8em;font-size:0.95em;">ひとり親家庭の保障バランスを、中立なFPが無料で整理してくれます。オンライン相談OK・契約強制なし。</p>
+<p style="margin:0;"><a href="https://h.accesstrade.net/sp/cc?rk=0100pflv00os2i" target="_blank" rel="nofollow sponsored noopener">👉 みんなの生命保険アドバイザーで無料相談してみる</a></p>
+</div>
+
+私自身の保険見直し体験は[40代シングルマザーが保険を全部見直した話](/posts/hoken-40dai-minaoshi/)に書いています。
+
+---
+
 ## 申請のコツ
 
 ここが一番大事なことです。
