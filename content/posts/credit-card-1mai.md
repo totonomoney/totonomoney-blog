@@ -101,7 +101,7 @@ cover:
 
 楽天をよく使う方は還元率がさらに上がる場面もあり、コスパが高いです。
 
-<a href="https://www.rakuten-card.co.jp/" target="_blank" rel="nofollow sponsored">👉 楽天カードの公式サイトで詳細を確認する（年会費永年無料）</a>
+<a href="https://hb.afl.rakuten.co.jp/hsc/541dd25c.58e04ae8.45bf8556.37dd86fd/?link_type=hybrid_url&ut=eyJwYWdlIjoic2hvcCIsInR5cGUiOiJoeWJyaWRfdXJsIiwiY29sIjoxLCJjYXQiOjEsImJhbiI6MTY3NDAxLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored">👉 楽天カードの公式サイトで詳細を確認する（年会費永年無料）</a>
 
 ### ② イオンカード（生活費中心の方向け）
 
@@ -150,7 +150,7 @@ cover:
 <div style="background:#fff8f0; border-left:4px solid #e07b39; padding:16px; margin:24px 0; border-radius:4px;">
   <p style="font-weight:bold; margin-bottom:8px;">💳 まずは楽天カードから試してみる</p>
   <p style="font-size:14px; margin-bottom:12px;">年会費永年無料・還元率1%。迷ったらこれで間違いありません。</p>
-  <a href="https://www.rakuten-card.co.jp/" target="_blank" rel="nofollow sponsored" style="background:#e07b39; color:white; padding:10px 20px; border-radius:4px; text-decoration:none; display:inline-block;">👉 楽天カードの公式サイトを確認する</a>
+  <a href="https://hb.afl.rakuten.co.jp/hsc/541dd25c.58e04ae8.45bf8556.37dd86fd/?link_type=hybrid_url&ut=eyJwYWdlIjoic2hvcCIsInR5cGUiOiJoeWJyaWRfdXJsIiwiY29sIjoxLCJjYXQiOjEsImJhbiI6MTY3NDAxLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored" style="background:#e07b39; color:white; padding:10px 20px; border-radius:4px; text-decoration:none; display:inline-block;">👉 楽天カードの公式サイトを確認する</a>
 </div>
 
 固定費の見直し全体は[シンママが離婚後によかった10のこと](/posts/divorce-review-10/)もあわせてどうぞ。
