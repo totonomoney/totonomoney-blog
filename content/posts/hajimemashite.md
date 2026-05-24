@@ -11,7 +11,7 @@ cover:
 ---
 
 <div style="text-align:center; margin: 1.5rem 0;">
-  <img src="/images/profile.jpg" alt="まゆみん" style="width:160px; height:160px; border-radius:50%; object-fit:cover; box-shadow:0 4px 14px rgba(122,102,82,0.18);" />
+  <img src="/images/profile.png" alt="まゆみん" style="width:160px; height:160px; border-radius:50%; object-fit:cover; box-shadow:0 4px 14px rgba(122,102,82,0.18);" />
 </div>
 
 はじめまして、まゆみんです。
