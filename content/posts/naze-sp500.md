@@ -12,6 +12,8 @@ cover:
 
 こんにちは、まゆみんです。
 
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
 NISAで何を買えばいいか、ずっと迷っていました。
 
 調べるほど「オルカンかS&P500か」で迷う。
@@ -161,7 +163,7 @@ NISAで月10万円、iDeCoで月2.3万円。
 <div style="background:#f8f3ea;border:1px solid #c8a96e;padding:1.4em 1.8em;margin:2em 0;border-radius:6px;">
 <p style="margin:0 0 0.5em;font-weight:bold;font-size:1.05em;">📈 NISAを始めるならSBI証券</p>
 <p style="margin:0 0 0.8em;font-size:0.95em;">私もSBI証券でS&P500を積み立て中。eMAXIS Slim米国株式も取り扱いあり。口座開設・維持費0円。スマホで完結します。</p>
-<p style="margin:0;"><a href="https://www.sbisec.co.jp/" target="_blank" rel="nofollow">👉 SBI証券の口座開設はこちら（無料）</a></p>
+<p style="margin:0;"><a href="https://www.sbisec.co.jp/" target="_blank" rel="nofollow sponsored noopener">👉 SBI証券の口座開設はこちら（無料）</a></p>
 </div>
 
 ## まとめ

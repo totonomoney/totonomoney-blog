@@ -12,6 +12,8 @@ cover:
 
 こんにちは、まゆみんです。
 
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
 離婚を考えているとき、一番気になったのは
 
 **「いったいいくらかかるんだろう」**
@@ -241,7 +243,7 @@ cover:
 <div style="background:#f8f3ea;border:1px solid #c8a96e;padding:1.4em 1.8em;margin:2em 0;border-radius:6px;">
 <p style="margin:0 0 0.5em;font-weight:bold;font-size:1.05em;">▶ 本当の自由を手に入れる お金の大学（両学長）</p>
 <p style="margin:0 0 0.8em;font-size:0.95em;">離婚後にお金をゼロから学ぶなら、まずこの1冊。稼ぐ・貯める・増やす・守る・使うの5つの力をわかりやすく解説。</p>
-<p style="margin:0;"><a href="https://www.amazon.co.jp/dp/4023323780/?tag=totonomoney-22" target="_blank" rel="nofollow sponsored">👉 Amazonで見てみる</a></p>
+<p style="margin:0;"><a href="https://www.amazon.co.jp/dp/4023323780/?tag=totonomoney-22" target="_blank" rel="nofollow sponsored noopener">👉 Amazonで見てみる</a></p>
 </div>
 
 ---

@@ -13,6 +13,8 @@ cover:
 
 こんにちは、まゆみんです。
 
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
 今年の1月、長女の成人式がありました。
 
 年末には必ず帰省してくるので、久しぶりではないのですが・・・
@@ -174,7 +176,7 @@ cover:
 <div style="background:#f8f3ea;border:1px solid #c8a96e;padding:1.4em 1.8em;margin:2em 0;border-radius:6px;">
 <p style="margin:0 0 0.5em;font-weight:bold;font-size:1.05em;">▶ ラブグラフ｜出張撮影サービス</p>
 <p style="margin:0 0 0.8em;font-size:0.95em;">好きな場所にカメラマンが出張。成人式・前撮り・家族写真などに対応。気に入らなければ全額返金保証つき。</p>
-<p style="margin:0;"><a href="//af.moshimo.com/af/c/click?a_id=5527746&p_id=1919&pc_id=3783&pl_id=26657" target="_blank" rel="nofollow sponsored">👉 ラブグラフで成人式の撮影を見てみる</a></p>
+<p style="margin:0;"><a href="//af.moshimo.com/af/c/click?a_id=5527746&p_id=1919&pc_id=3783&pl_id=26657" target="_blank" rel="nofollow sponsored noopener">👉 ラブグラフで成人式の撮影を見てみる</a></p>
 </div>
 
 ---
