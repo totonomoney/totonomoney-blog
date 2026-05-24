@@ -37,6 +37,7 @@ NISAで何を買えばいいか、ずっと迷っていました。
 NISA初心者がよく迷う2択がこれです。
 
 <div class="table-wrapper">
+
 | | オルカン | S&P500 |
 |--|--|--|
 | 正式名称 | eMAXIS Slim 全世界株式（オール・カントリー） | eMAXIS Slim 米国株式（S&P500） |
