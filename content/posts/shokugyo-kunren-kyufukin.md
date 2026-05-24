@@ -361,7 +361,7 @@ Webデザイン・Webマーケティングのスキルは、
 <div style="background:#f8f3ea;border:1px solid #c8a96e;padding:1.4em 1.8em;margin:2em 0;border-radius:6px;">
 <p style="margin:0 0 0.5em;font-weight:bold;font-size:1.05em;">▶ インターネットアカデミー（公式サイト）</p>
 <p style="margin:0 0 0.8em;font-size:0.95em;">Webデザイン・Webマーケティング・プログラミングなど、社会人向けのオンライン受講に対応。無料カウンセリングあり。給付金の対象講座かどうかは、まず窓口で確認を。</p>
-<p style="margin:0;"><a href="https://www.internetacademy.jp/" target="_blank" rel="noopener">👉 インターネットアカデミー公式サイトを見る</a></p>
+<p style="margin:0;"><a href="https://www.internetacademy.jp/" target="_blank" rel="nofollow noopener">👉 インターネットアカデミー公式サイトを見る</a></p>
 </div>
 
 ---
