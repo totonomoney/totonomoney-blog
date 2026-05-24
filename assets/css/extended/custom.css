@@ -525,6 +525,11 @@ a:hover { color: var(--accent); }
     border-right: 1px solid var(--border);
 }
 
+.post-content table th:last-child,
+.post-content table td:last-child {
+    border-right: none;
+}
+
 .post-content table tr:nth-child(even) td {
     background: var(--accent-light);
 }
