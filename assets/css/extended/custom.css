@@ -501,8 +501,8 @@ a:hover { color: var(--accent); }
     border-radius: 4px;
     border-collapse: collapse;
     border: 1px solid var(--border);
+    width: max-content;
     min-width: 100%;
-    white-space: nowrap;
 }
 
 .post-content table th {
