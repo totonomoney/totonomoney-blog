@@ -1,4 +1,4 @@
----
+﻿---
 title: "クレジットカード1枚にしたら年間2万円差｜シンママのリアルな節約効果"
 date: 2026-04-25
 draft: false
@@ -6,7 +6,7 @@ description: "クレジットカードを3枚から1枚に絞って年間約2万
 tags: ["節約", "クレジットカード", "シンママ", "家計管理", "固定費", "ポイント"]
 categories: ["お金・節約"]
 cover:
-  image: /images/credit-card-1mai.png
+  image: /images/credit-card-1mai.jpg
   alt: "クレジットカード・コイン・家計簿のフラットレイ"
 ---
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "山田進太郎D&I財団｜理系女子高校生に10万円の給付型奨学金"
 date: 2026-05-02
 draft: false
@@ -6,7 +6,7 @@ description: "理系に興味がある女子高校生のいるひとり親家庭
 tags: ["奨学金", "給付型奨学金", "シンママ", "教育費", "高校生", "理系", "女子"]
 categories: ["お金・節約"]
 cover:
-  image: /images/yamada-stem-shougakuzaidan.png
+  image: /images/yamada-stem-shougakuzaidan.jpg
   alt: "パソコン・ノート・ペンのフラットレイ"
 ---
 

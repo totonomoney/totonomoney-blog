@@ -1,4 +1,4 @@
----
+﻿---
 title: "大学生の国民年金を親が払うと節税になる｜一括前納した理由"
 date: 2026-04-17
 draft: false
@@ -7,7 +7,7 @@ description: "大学生の子どもの国民年金を親が払うと社会保険
 tags: ["国民年金", "社会保険料控除", "節税", "シンママ", "大学費用"]
 categories: ["お金・節約"]
 cover:
-  image: /images/nenkin-ikkatsu.png
+  image: /images/nenkin-ikkatsu.jpg
   alt: "封筒・コイン・カレンダーのフラットレイ"
 ---
 

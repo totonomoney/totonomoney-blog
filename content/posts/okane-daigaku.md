@@ -1,4 +1,4 @@
----
+﻿---
 title: "離婚後に何度も読み返した本｜「お金の大学」がシンママに刺さる理由"
 date: 2026-04-27
 draft: false
@@ -6,7 +6,7 @@ description: "お金の勉強を始めたいシンママにまず読んでほし
 tags: ["本・書籍", "お金の勉強", "シンママ", "節約", "投資入門"]
 categories: ["お金・節約"]
 cover:
-  image: /images/okane-daigaku.png
+  image: /images/okane-daigaku.jpg
   alt: "本・コーヒー・ノートのフラットレイ"
 ---
 

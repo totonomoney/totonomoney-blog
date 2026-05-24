@@ -1,4 +1,4 @@
----
+﻿---
 title: "受験期に離婚…教育費はいくら？シンママが2人受験を乗り切った全内訳"
 date: 2026-04-08
 draft: false
@@ -7,7 +7,7 @@ tags: ["体験談", "シンママ", "家計", "受験", "離婚", "教育費", "
 categories: ["シンママ体験談"]
 featured: true
 cover:
-  image: /images/divorce-and-exam.png
+  image: /images/divorce-and-exam.jpg
   alt: "ノート・ペンのフラットレイ"
 ---
 

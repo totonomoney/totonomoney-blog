@@ -1,4 +1,4 @@
----
+﻿---
 title: "シンママが保険を見直した結果｜掛け捨てだけで十分だった理由"
 date: 2026-04-23
 draft: false
@@ -6,7 +6,7 @@ description: "シンママに本当に必要な保険がわかります。掛け
 tags: ["保険", "シンママ", "離婚", "節約", "お金の考え方"]
 categories: ["お金・節約"]
 cover:
-  image: /images/hoken-minaoshi.png
+  image: /images/hoken-minaoshi.jpg
   alt: "書類・ペン・植物のフラットレイ"
 ---
 

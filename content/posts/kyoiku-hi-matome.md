@@ -1,4 +1,4 @@
----
+﻿---
 title: "子ども2人の教育費を全公開｜シンママのリアルな数字"
 date: 2026-05-04
 draft: false
@@ -6,7 +6,7 @@ description: "高校・大学の受験料・塾代・入学費用の実数を全
 tags: ["教育費", "シンママ", "体験談", "節約", "受験", "大学費用", "高校費用"]
 categories: ["シンママ体験談"]
 cover:
-  image: /images/kyoiku-hi-matome.png
+  image: /images/kyoiku-hi-matome.jpg
   alt: "ノート・電卓・コインのフラットレイ"
 ---
 

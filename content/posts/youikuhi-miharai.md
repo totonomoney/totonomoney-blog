@@ -1,4 +1,4 @@
----
+﻿---
 title: "養育費が払われなくなったら？2026年法改正で変わった対処法まとめ"
 date: 2026-04-09
 draft: false
@@ -7,7 +7,7 @@ description: "養育費が止まったひとり親はまずここを確認して
 tags: ["養育費", "シンママ", "離婚", "公正証書", "強制執行", "民法改正"]
 categories: ["シンママ体験談"]
 cover:
-  image: /images/youikuhi-miharai.png
+  image: /images/youikuhi-miharai.jpg
   alt: "書類・ペン・封筒のフラットレイ"
 ---
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "シンママが貯金できた方法｜SBIネット銀行の目的別口座"
 date: 2026-04-28
 draft: false
@@ -6,7 +6,7 @@ description: "「余ったら貯金」では貯まらない仕組みと解決策
 tags: ["積み立て", "SBIネット銀行", "目的別口座", "先取り貯蓄", "シンママ", "教育費", "節約"]
 categories: ["お金・節約"]
 cover:
-  image: /images/sbi-mokutekibetsu.png
+  image: /images/sbi-mokutekibetsu.jpg
   alt: "通帳・コイン・手帳のフラットレイ"
 ---
 

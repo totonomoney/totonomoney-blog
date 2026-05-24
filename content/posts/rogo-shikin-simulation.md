@@ -1,4 +1,4 @@
----
+﻿---
 title: "シンママが月1万円から始める老後資金｜NISA・iDeCoの積立シミュレーション"
 date: 2026-05-09
 draft: false
@@ -6,7 +6,7 @@ categories: ["投資（NISA・iDeCo）", "お金・節約"]
 tags: ["老後資金", "NISA", "iDeCo", "シンママ", "資産形成", "シミュレーション"]
 description: "月1万円から始められる老後資金の作り方をシンママFP2級が解説。NISA・iDeCoを使った3パターンのシミュレーションと、老後に月いくら必要かの計算方法がわかります。老後が不安なひとり親の方はぜひ確認してください。"
 cover:
-  image: /images/rogo-shikin-simulation.png
+  image: /images/rogo-shikin-simulation.jpg
   alt: "シンママが月1万円から始める老後資金"
 ---
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "離婚前にやること準備リスト｜シンママの半年間の体験談"
 date: 2026-05-05
 draft: false
@@ -6,7 +6,7 @@ categories: ["シンママ体験談", "離婚・手続き"]
 tags: ["離婚", "準備", "チェックリスト", "シンママ", "弁護士", "体験談"]
 description: "離婚を決意してから半年間、弁護士と一緒に準備したことをまとめました。生活防衛費の貯め方・やっておいてよかったこと・一般的にやるべきことをシンママ目線で解説します。"
 cover:
-  image: /images/rikon-mae-checklist.png
+  image: /images/rikon-mae-checklist.jpg
   alt: "離婚前にやること準備リスト"
 ---
 

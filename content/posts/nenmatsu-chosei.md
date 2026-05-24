@@ -1,4 +1,4 @@
----
+﻿---
 title: "シンママの年末調整｜ひとり親控除・iDeCo・保険料控除を全部取る方法"
 date: 2026-05-10
 draft: false
@@ -6,7 +6,7 @@ categories: ["お金・節約"]
 tags: ["年末調整", "ひとり親控除", "iDeCo", "生命保険料控除", "シンママ", "節税", "FP2級"]
 description: "会社員シンママが年末調整でやるべきことを全部まとめました。ひとり親控除・iDeCo・生命保険料控除を正しく申請するだけで年間数万円の節税になります。FP2級のまゆみんが実体験で解説します。"
 cover:
-  image: /images/nenmatsu-chosei.png
+  image: /images/nenmatsu-chosei.jpg
   alt: "会社員シンママの年末調整でやること"
 ---
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "県外大学生を抱えながらNISAを続けている話｜シンママのリアル家計"
 date: 2026-04-11
 draft: false
@@ -6,7 +6,7 @@ description: "県外私立大学への仕送り＋高校受験生を抱えるシ
 tags: ["家計", "シンママ", "節約", "体験談", "NISA", "iDeCo"]
 categories: ["シンママ体験談"]
 cover:
-  image: /images/household-budget.png
+  image: /images/household-budget.jpg
   alt: "家計簿・電卓・コーヒーのフラットレイ"
 ---
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "離婚後の戸籍手続きまとめ｜姓を変えなくても必要な手続きがあった"
 date: 2026-04-15
 draft: false
@@ -6,7 +6,7 @@ description: "離婚後の戸籍手続きについて実体験をもとに解説
 tags: ["離婚", "戸籍", "シンママ", "手続き", "親権", "体験談"]
 categories: ["シンママ体験談"]
 cover:
-  image: /images/koseki-tetsuzuki.png
+  image: /images/koseki-tetsuzuki.jpg
   alt: "戸籍・書類・印鑑のフラットレイ"
 ---
 

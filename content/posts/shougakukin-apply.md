@@ -1,4 +1,4 @@
----
+﻿---
 title: "ひとり親の高校生が給付型奨学金を申請した体験談"
 date: 2026-04-30
 draft: false
@@ -6,7 +6,7 @@ description: "ひとり親家庭の高校生が給付型奨学金を申請する
 tags: ["奨学金", "給付型奨学金", "高校生", "ひとり親", "シンママ", "教育費"]
 categories: ["シンママ体験談"]
 cover:
-  image: /images/shougakukin-apply.png
+  image: /images/shougakukin-apply.jpg
   alt: "ノート・ペン・コインのフラットレイ"
 ---
 

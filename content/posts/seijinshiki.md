@@ -1,4 +1,4 @@
----
+﻿---
 title: "成人式の費用はいくら？振袖レンタル25万円とシンママの内訳"
 date: 2026-04-18
 draft: false
@@ -7,7 +7,7 @@ description: "成人式費用の内訳を全部確認してください。振袖
 tags: ["成人式", "教育費", "積み立て", "SBIネット銀行", "目的別口座", "シンママ"]
 categories: ["シンママ体験談"]
 cover:
-  image: /images/seijinshiki.png
+  image: /images/seijinshiki.jpg
   alt: "ギフトボックス・花のフラットレイ"
 ---
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "シンママが大学生に仕送りする実態｜月3万円＋家賃光熱費で総額いくら？"
 date: 2026-05-08
 draft: false
@@ -6,7 +6,7 @@ categories: ["シンママ体験談", "お金・節約"]
 tags: ["仕送り", "教育費", "大学生", "一人暮らし", "シンママ", "体験談"]
 description: "シンママが大学生の長女に仕送りしている実態を公開。月3万円の現金仕送りに加え、家賃・光熱費を別途負担。総額と工夫していること、大学生へのNISAの勧めも書いています。"
 cover:
-  image: /images/simokuri-jitsujohu.png
+  image: /images/simokuri-jitsujohu.jpg
   alt: "シンママが大学生に仕送りする実態"
 ---
 

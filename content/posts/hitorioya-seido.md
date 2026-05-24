@@ -1,4 +1,4 @@
----
+﻿---
 title: "申請しないと損するお金がある｜ひとり親家庭が使える制度を全部まとめた"
 date: 2026-04-12
 draft: false
@@ -7,7 +7,7 @@ tags: ["ひとり親", "児童扶養手当", "シンママ", "節約", "制度",
 categories: ["シンママ体験談"]
 featured: true
 cover:
-  image: /images/hitorioya-seido.png
+  image: /images/hitorioya-seido.jpg
   alt: "ノート・チェックリスト・ペンのフラットレイ"
 ---
 

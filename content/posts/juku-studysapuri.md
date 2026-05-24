@@ -1,4 +1,4 @@
----
+﻿---
 title: "シンママの子どもが高校受験を塾なしで合格｜今は給付型奨学金で塾へ"
 date: 2026-04-27
 draft: false
@@ -7,7 +7,7 @@ tags: ["受験", "塾代", "奨学金", "シンママ", "高校生", "医学部"
 categories: ["シンママ体験談"]
 featured: true
 cover:
-  image: /images/juku-studysapuri.png
+  image: /images/juku-studysapuri.jpg
   alt: "ワーク・鉛筆・消しゴムのフラットレイ"
 ---
 

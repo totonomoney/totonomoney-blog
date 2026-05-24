@@ -1,4 +1,4 @@
----
+﻿---
 title: "婚姻費用を自分で申立てた話｜月14万円が1年間の生活を支えた"
 date: 2026-04-07
 draft: false
@@ -6,7 +6,7 @@ description: "別居中に婚姻費用を請求できることを知っていま
 tags: ["婚姻費用", "別居", "離婚", "シンママ", "体験談", "家庭裁判所"]
 categories: ["シンママ体験談"]
 cover:
-  image: /images/konin-hiyo.png
+  image: /images/konin-hiyo.jpg
   alt: "書類・電卓・コインのフラットレイ"
 ---
 

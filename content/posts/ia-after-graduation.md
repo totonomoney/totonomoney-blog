@@ -1,4 +1,4 @@
----
+﻿---
 title: "職業訓練でWebスクールへ。Web系に転職しなかった話"
 date: 2026-05-04
 draft: false
@@ -6,7 +6,7 @@ description: "Webスクール卒業後にWeb系の仕事に就かなかったシ
 tags: ["職業訓練", "給付金", "シンママ", "スキルアップ", "Webデザイン", "副業", "体験談"]
 categories: ["シンママ体験談"]
 cover:
-  image: /images/ia-after-graduation.png
+  image: /images/ia-after-graduation.jpg
   alt: "ノートパソコン・手帳のフラットレイ"
 ---
 

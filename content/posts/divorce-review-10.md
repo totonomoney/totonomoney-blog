@@ -1,4 +1,4 @@
----
+﻿---
 title: "シンママが離婚後によかった10のこと｜節約と手続き全まとめ"
 date: 2026-04-10
 draft: false
@@ -6,7 +6,7 @@ description: "離婚後にまず何をすべきか迷っているひとり親の
 tags: ["体験談", "シンママ", "節約", "家計", "離婚", "固定費", "NISA", "ひとり親"]
 categories: ["お金・節約"]
 cover:
-  image: /images/divorce-review-10.png
+  image: /images/divorce-review-10.jpg
   alt: "ノート・ペン・植物のフラットレイ"
 ---
 

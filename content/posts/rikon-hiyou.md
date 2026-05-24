@@ -1,4 +1,4 @@
----
+﻿---
 title: "離婚にかかったお金を全部公開｜弁護士費用・慰謝料・別居中の費用まで"
 date: 2026-04-06
 draft: false
@@ -6,7 +6,7 @@ description: "離婚を考えているひとり親の方はまず費用感を確
 tags: ["離婚", "弁護士費用", "慰謝料", "シンママ", "婚姻費用", "お金"]
 categories: ["シンママ体験談"]
 cover:
-  image: /images/rikon-hiyou.png
+  image: /images/rikon-hiyou.jpg
   alt: "書類・電卓・ペンのフラットレイ"
 ---
 

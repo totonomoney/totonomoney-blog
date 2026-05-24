@@ -1,4 +1,4 @@
----
+﻿---
 title: "離婚後にやること完全チェックリスト｜やり忘れも全部書く"
 date: 2026-05-06
 draft: false
@@ -6,7 +6,7 @@ categories: ["シンママ体験談", "離婚・手続き"]
 tags: ["離婚", "手続き", "チェックリスト", "シンママ", "体験談"]
 description: "離婚後にやることを時系列順に整理しました。期限があるもの・もらえるお金の申請タイミング・シンママが実際に後悔した「やり忘れ」を正直に書いています。"
 cover:
-  image: /images/rikon-yarukoto-checklist.png
+  image: /images/rikon-yarukoto-checklist.jpg
   alt: "離婚後にやること完全チェックリスト"
 ---
 

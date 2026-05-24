@@ -1,4 +1,4 @@
----
+﻿---
 title: "シンママがFP2級を独学で取った話｜お金ゼロ知識から合格までの道のり"
 date: 2026-04-22
 draft: false
@@ -6,7 +6,7 @@ description: "お金の知識ゼロからFP2級に合格したシンママの独
 tags: ["FP2級", "ファイナンシャルプランナー", "独学", "お金の勉強", "シンママ"]
 categories: ["お金・節約"]
 cover:
-  image: /images/fp2-study.png
+  image: /images/fp2-study.jpg
   alt: "参考書・鉛筆・トロフィーのフラットレイ"
 ---
 

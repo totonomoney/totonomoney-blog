@@ -1,4 +1,4 @@
----
+﻿---
 title: "返済不要の給付型奨学金まとめ｜ひとり親が使える財団5選"
 date: 2026-04-29
 draft: false
@@ -7,7 +7,7 @@ description: "ひとり親家庭の高校生・大学生が使える給付型奨
 tags: ["奨学金", "給付型奨学金", "高校生", "大学費用", "シンママ", "教育費", "ひとり親"]
 categories: ["お金・節約"]
 cover:
-  image: /images/shogakukin-kyufu-matome.png
+  image: /images/shogakukin-kyufu-matome.jpg
   alt: "本・ペン・証書のフラットレイ"
 ---
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "離婚後にやること一覧｜手続きチェックリスト【シンママ経験者が解説】"
 date: 2026-04-09
 draft: false
@@ -6,7 +6,7 @@ description: "離婚後の手続きをチェックリストで確認してくだ
 tags: ["離婚", "手続き", "シンママ", "ひとり親", "児童扶養手当", "戸籍"]
 categories: ["シンママ体験談"]
 cover:
-  image: /images/rikon-tetsuzuki.png
+  image: /images/rikon-tetsuzuki.jpg
   alt: "書類・ペン・手帳のフラットレイ"
 ---
 

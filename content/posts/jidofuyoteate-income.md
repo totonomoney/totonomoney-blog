@@ -1,4 +1,4 @@
----
+﻿---
 title: "児童扶養手当、働くと減るの？所得制限をシンママが解説"
 date: 2026-04-13
 draft: false
@@ -6,7 +6,7 @@ description: "「働いたら手当が減る」で悩むひとり親はまず正
 tags: ["児童扶養手当", "所得制限", "シンママ", "ひとり親", "FP2級"]
 categories: ["お金・節約"]
 cover:
-  image: /images/jidofuyoteate-income.png
+  image: /images/jidofuyoteate-income.jpg
   alt: "財布・コイン・ノートのフラットレイ"
 ---
 

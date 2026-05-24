@@ -1,4 +1,4 @@
----
+﻿---
 title: "離婚後の年金分割を自分で郵送した話｜合意分割の落とし穴"
 date: 2026-04-16
 draft: false
@@ -6,7 +6,7 @@ description: "離婚後の年金分割を自分で郵送手続きした体験談
 tags: ["年金分割", "離婚", "合意分割", "シンママ", "年金", "手続き"]
 categories: ["シンママ体験談"]
 cover:
-  image: /images/nenkin-bunkatsu.png
+  image: /images/nenkin-bunkatsu.jpg
   alt: "年金手帳と書類のフラットレイ"
 ---
 

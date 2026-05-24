@@ -1,4 +1,4 @@
----
+﻿---
 title: "シンママが使い続けているサブスク5つ｜節約より「価値があるか」で判断"
 date: 2026-04-26
 draft: false
@@ -6,7 +6,7 @@ description: "「全部やめる」より「価値があるものだけ残す」
 tags: ["サブスク", "節約", "シンママ", "家計管理", "お金の使い方"]
 categories: ["お金・節約"]
 cover:
-  image: /images/sabusuku-sinmama.png
+  image: /images/sabusuku-sinmama.jpg
   alt: "スマホ・コイン・植物のフラットレイ"
 ---
 

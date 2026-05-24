@@ -1,4 +1,4 @@
----
+﻿---
 title: "子どもの歯列矯正80万円を医療費控除で取り戻す方法"
 date: 2026-05-09
 draft: false
@@ -6,7 +6,7 @@ categories: ["シンママ体験談", "お金・節約"]
 tags: ["医療費控除", "歯列矯正", "確定申告", "シンママ", "節税", "体験談"]
 description: "次女の歯列矯正に80万円近くかかりました。ひとり親は普段の医療費がほぼゼロでも、矯正は助成対象外。確定申告で7〜14万円戻ってくる可能性があります。申請しないと損なので今すぐ確認してください。"
 cover:
-  image: /images/kyousei-iryouhi-koujyo.png
+  image: /images/kyousei-iryouhi-koujyo.jpg
   alt: "子どもの歯列矯正と医療費控除"
 ---
 

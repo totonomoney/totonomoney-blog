@@ -1,4 +1,4 @@
----
+﻿---
 title: "シンママの老後資金はいくら必要？NISA・iDeCoでシミュレーション"
 date: 2026-04-22
 draft: false
@@ -6,7 +6,7 @@ description: "シンママがNISA＋iDeCoで老後資金をシミュレーショ
 tags: ["老後", "NISA", "iDeCo", "シンママ", "資産形成", "FP2級"]
 categories: ["お金・節約"]
 cover:
-  image: /images/rogo-simulation.png
+  image: /images/rogo-simulation.jpg
   alt: "電卓・コイン・手帳のフラットレイ"
 ---
 

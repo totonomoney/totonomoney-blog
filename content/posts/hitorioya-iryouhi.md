@@ -1,4 +1,4 @@
----
+﻿---
 title: "ひとり親医療費助成制度｜親も対象の自治体がある"
 date: 2026-04-14
 draft: false
@@ -6,7 +6,7 @@ description: "ひとり親医療費助成は親本人も対象になる自治体
 tags: ["ひとり親", "医療費", "シンママ", "制度", "節約"]
 categories: ["シンママ体験談"]
 cover:
-  image: /images/hitorioya-iryouhi.png
+  image: /images/hitorioya-iryouhi.jpg
   alt: "診察券・保険証・ノートのフラットレイ"
 ---
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "知らないと損！iDeCoが子どもの奨学金に影響する理由"
 date: 2026-04-20
 draft: false
@@ -7,7 +7,7 @@ tags: ["iDeCo", "奨学金", "節税", "シンママ", "大学費用"]
 categories: ["お金・節約"]
 featured: true
 cover:
-  image: /images/ideco-scholarship.png
+  image: /images/ideco-scholarship.jpg
   alt: "コイン・貯金瓶・卒業帽のフラットレイ"
 ---
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "受講料85万円が、給付金145万円になって戻ってきた話"
 date: 2026-04-16
 draft: false
@@ -7,7 +7,7 @@ description: "スキルアップを考えているひとり親はまず給付金
 tags: ["職業訓練", "給付金", "シンママ", "スキルアップ", "Webデザイン", "ひとり親"]
 categories: ["シンママ体験談"]
 cover:
-  image: /images/shokugyo-kunren-kyufukin.png
+  image: /images/shokugyo-kunren-kyufukin.jpg
   alt: "パソコン・ノート・コーヒーのフラットレイ"
 ---
 

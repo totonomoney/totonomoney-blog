@@ -1,4 +1,4 @@
----
+﻿---
 title: "ひとり親控除とは？年末調整で申請できる！シンママが節税額を解説"
 date: 2026-04-13
 draft: false
@@ -6,7 +6,7 @@ description: "ひとり親控除の金額・条件・年末調整での申請方
 tags: ["ひとり親控除", "確定申告", "節税", "シンママ", "FP2級"]
 categories: ["お金・節約"]
 cover:
-  image: /images/hitorioya-kojin-koujyo.png
+  image: /images/hitorioya-kojin-koujyo.jpg
   alt: "書類・ペン・電卓のフラットレイ"
 ---
 

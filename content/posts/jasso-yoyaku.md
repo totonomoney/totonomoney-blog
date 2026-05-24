@@ -1,4 +1,4 @@
----
+﻿---
 title: "高3の春にやること｜JASSOの予約採用で奨学金を確保する"
 date: 2026-05-01
 draft: false
@@ -6,7 +6,7 @@ description: "高校3年の春に動かないと損するJASSOの予約採用。
 tags: ["奨学金", "JASSO", "予約採用", "高校生", "大学進学", "シンママ", "教育費"]
 categories: ["シンママ体験談"]
 cover:
-  image: /images/jasso-yoyaku.png
+  image: /images/jasso-yoyaku.jpg
   alt: "教科書・ペン・コインのフラットレイ"
 ---
 

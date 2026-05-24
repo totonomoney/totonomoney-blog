@@ -1,4 +1,4 @@
----
+﻿---
 title: "SBI証券でNISAを始めた話｜口座開設の手順と私が使い続ける理由"
 date: 2026-04-28
 draft: false
@@ -6,7 +6,7 @@ description: "40代シンママがSBI証券でNISAを始めた理由と口座開
 tags: ["SBI証券", "NISA", "iDeCo", "投資", "シンママ", "口座開設", "資産運用"]
 categories: ["お金・節約"]
 cover:
-  image: /images/sbi-nisa-account.png
+  image: /images/sbi-nisa-account.jpg
   alt: "スマホ・手帳・コーヒーのフラットレイ"
 ---
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "シンママになって変えたお金の使い方7つ｜離婚後にやめたこと・始めたこと"
 date: 2026-04-11
 draft: false
@@ -6,7 +6,7 @@ description: "シンママになってお金の使い方がどう変わったか
 tags: ["シンママ", "節約", "家計管理", "NISA", "iDeCo", "保険", "お金の使い方"]
 categories: ["シンママ体験談"]
 cover:
-  image: /images/okane-tsukaikata-change.png
+  image: /images/okane-tsukaikata-change.jpg
   alt: "ノート・コイン・植物のフラットレイ"
 ---
 

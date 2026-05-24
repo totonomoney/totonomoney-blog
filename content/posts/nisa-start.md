@@ -1,4 +1,4 @@
----
+﻿---
 title: "老後が怖くて、NISAを調べた夜の話｜40代シンママが始めた理由"
 date: 2026-04-19
 draft: false
@@ -7,7 +7,7 @@ tags: ["NISA", "投資", "老後", "シンママ", "老後資金", "資産形成
 categories: ["お金・節約"]
 featured: true
 cover:
-  image: /images/nisa-start.png
+  image: /images/nisa-start.jpg
   alt: "植物・コイン・ノートのフラットレイ"
 ---
 
