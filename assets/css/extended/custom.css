@@ -519,26 +519,25 @@ a:hover { color: var(--accent); }
 
 /* ===== TOC ===== */
 .toc {
-    border: 1px solid #D4BFA8;
-    border-radius: 12px;
-    background: linear-gradient(135deg, #FDF6EE 0%, #F5EDE0 100%);
-    padding: 18px 22px;
-    margin: 1.8rem 0;
+    border: 1px solid #D4BFA8 !important;
+    border-radius: 12px !important;
+    background: linear-gradient(135deg, #FDF6EE 0%, #F5EDE0 100%) !important;
+    padding: 18px 22px !important;
+    margin: 1.8rem 0 !important;
+    color: var(--text) !important;
 }
 
 .toc details summary {
     font-family: 'Shippori Mincho', serif;
     font-weight: 700;
-    color: var(--accent-dark);
+    color: var(--accent-dark) !important;
     letter-spacing: 0.05em;
     cursor: pointer;
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
+    list-style: none;
 }
 
 .toc details summary::before {
-    content: '📋';
+    content: '📋 目次';
     font-size: 0.95rem;
 }
 
@@ -553,13 +552,13 @@ a:hover { color: var(--accent); }
 }
 
 .toc nav a {
-    color: var(--accent);
+    color: var(--accent) !important;
     font-size: 0.85rem;
     line-height: 1.9;
 }
 
 .toc nav a:hover {
-    color: var(--accent-dark);
+    color: var(--accent-dark) !important;
     text-decoration: underline;
 }
 
