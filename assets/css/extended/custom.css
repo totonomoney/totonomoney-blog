@@ -489,16 +489,20 @@ a:hover { color: var(--accent); }
 }
 
 /* ===== 表 ===== */
-.post-content table {
-    border-radius: 4px;
-    border-collapse: collapse;
-    border: 1px solid var(--border);
+.table-wrapper {
     display: block;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
     max-width: 100%;
-    width: max-content;
+    margin: 1.5rem 0;
+}
+
+.post-content table {
+    border-radius: 4px;
+    border-collapse: collapse;
+    border: 1px solid var(--border);
     min-width: 100%;
+    white-space: nowrap;
 }
 
 .post-content table th {
@@ -914,7 +918,7 @@ a:hover { color: var(--accent); }
 
     .entry-cover img {
         height: 160px;
-        object-fit: contain;
+        object-fit: cover;
         background: #FAF8F4;
     }
 
@@ -932,8 +936,11 @@ a:hover { color: var(--accent); }
 
     .post-content table {
         font-size: 0.8rem;
-        display: block;
+    }
+
+    .table-wrapper {
         overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
     }
 
     .author-box-inner {
