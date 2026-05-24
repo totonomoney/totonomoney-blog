@@ -194,6 +194,7 @@ h1.post-title {
     font-family: 'Shippori Mincho', serif;
     font-weight: 700;
     letter-spacing: 0.02em;
+    color: #2C2C2C !important;
 }
 
 /* カラー変数 */
