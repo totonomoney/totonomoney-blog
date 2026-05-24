@@ -1,3 +1,13 @@
+<script>
+document.querySelectorAll('.post-content table').forEach(function(t) {
+  if (t.parentNode.classList.contains('table-wrapper')) return;
+  var w = document.createElement('div');
+  w.className = 'table-wrapper';
+  t.parentNode.insertBefore(w, t);
+  w.appendChild(t);
+});
+</script>
+
 <div class="footer-disclaimer">
     <p>当ブログの情報は筆者個人の体験・見解に基づくものです。投資には元本割れリスクがあります。制度・法律情報は執筆時点のものであり、変更される場合があります。詳細は<a href="/privacy-policy/#免責事項">免責事項</a>をご確認ください。</p>
 </div>
