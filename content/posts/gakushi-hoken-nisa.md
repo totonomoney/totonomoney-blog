@@ -172,7 +172,7 @@ NISAは老後資金として長期で運用しています。
 
 ただ、**お金を「増やす」ことを優先するなら、NISAの方が合理的**だと私は考えています。
 
-学資保険とNISAの詳細比較は[学資保険はやめてNISAにした理由｜シンママがFP2級で計算して出した答え](/posts/gakushi-hoken-vs-nisa/)もあわせてどうぞ。
+学資保険とNISAの詳細比較は[学資保険をやめてNISAにした理由｜FP2級で計算した答え](/posts/gakushi-hoken-vs-nisa/)もあわせてどうぞ。
 
 ---
 
@@ -221,7 +221,7 @@ NISAは老後資金として長期で運用しています。
 
 ## あわせて読みたい 📖
 
-- [学資保険をやめてNISAにした話｜解約手続きと切り替えの実体験](/posts/gakushi-hoken-vs-nisa/)
+- [学資保険をやめてNISAにした理由｜FP2級で計算した答え](/posts/gakushi-hoken-vs-nisa/)
 - [40代シンママがNISAを始めた理由](/posts/nisa-start/)
 - [知らないと損！iDeCoが子どもの奨学金に影響する理由](/posts/ideco-scholarship/)
 
