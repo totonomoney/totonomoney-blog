@@ -1,10 +1,12 @@
 <script>
-document.querySelectorAll('.post-content table').forEach(function(t) {
-  if (t.parentNode.classList.contains('table-wrapper')) return;
-  var w = document.createElement('div');
-  w.className = 'table-wrapper';
-  t.parentNode.insertBefore(w, t);
-  w.appendChild(t);
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.post-content table').forEach(function(t) {
+    if (t.parentNode.classList.contains('table-wrapper')) return;
+    var w = document.createElement('div');
+    w.className = 'table-wrapper';
+    t.parentNode.insertBefore(w, t);
+    w.appendChild(t);
+  });
 });
 </script>
 
