@@ -187,6 +187,14 @@ iDeCoは使い方を考えてこそ意味がある制度です。
 
 ---
 
+<div style="background:#f0f8ff;border:1px solid #7ab3d0;padding:1.4em 1.8em;margin:2em 0;border-radius:6px;">
+<p style="margin:0 0 0.5em;font-weight:bold;font-size:1.05em;">▶ 年金・老後資金の無料相談 ― 保険ガーデン</p>
+<p style="margin:0 0 0.8em;font-size:0.95em;">iDeCoをどう活用すべきか迷ったら、FPへの無料相談がおすすめ。自分の年収・状況に合った使い方を一緒に考えてくれます。話を聞くだけでもOK。</p>
+<p style="margin:0;"><a href="https://t.afi-b.com/visit.php?a=X14272H-D468442l&p=a981986P" target="_blank" rel="nofollow sponsored noopener">👉 保険ガーデンで無料相談してみる</a></p>
+</div>
+
+---
+
 ## 今すぐできること
 
 iDeCoを始めるか迷っているなら、まず自分の状況を確認してください。
