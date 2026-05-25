@@ -117,6 +117,12 @@ cover:
 
 iDeCoも同時に始めました。月23,000円。掛け金が全額所得控除になるので、シンママの節税にも効きます。
 
+<div style="background:#f8f3ea;border:1px solid #c8a96e;padding:1.4em 1.8em;margin:2em 0;border-radius:6px;">
+<p style="margin:0 0 0.5em;font-weight:bold;font-size:1.05em;">▶ SBI証券でNISAを始める（無料・スマホで完結）</p>
+<p style="margin:0 0 0.8em;font-size:0.95em;">eMAXIS Slim S&P500・全世界株式など低コスト投信が豊富。口座開設・維持費は0円。申し込みはスマホで10分、積立を始めるかは口座を作ってから決めればOKです。</p>
+<p style="margin:0;"><a href="https://www.sbisec.co.jp/" target="_blank" rel="nofollow sponsored noopener">👉 SBI証券の口座開設はこちら（無料）</a></p>
+</div>
+
 NISAを始めた経緯は[こちらの記事](/posts/nisa-start/)に詳しく書いています。
 
 ---
@@ -157,6 +163,14 @@ NISAを始めた経緯は[こちらの記事](/posts/nisa-start/)に詳しく書
 私にできたんだから、あなたにもできます。
 
 今夜、眠れないままでもいい。明日、市役所のひとり親窓口に電話する勇気だけ、ポケットに入れて寝てください。動き始めたら、お金の怖さは少しずつ薄れていきますから。
+
+もし「市役所はハードルが高い」と感じるなら、まずは**無料の保険相談**から始めてもOK。スマホひとつ、オンラインで完結します。**話を聞くだけで終わってOK**だから、夜中でも申し込みボタンだけ押しておく——それだけで明日の自分が動きやすくなります。
+
+<div style="background:#f0f8ff;border:1px solid #7ab3d0;padding:1.4em 1.8em;margin:2em 0;border-radius:6px;">
+<p style="margin:0 0 0.5em;font-weight:bold;font-size:1.05em;">▶ 生命保険の無料相談 ― みんなの生命保険アドバイザー</p>
+<p style="margin:0 0 0.8em;font-size:0.95em;">FPが中立な立場で生命保険をまるごと見直してくれる無料相談サービス。オンライン相談OK・契約強制なし。来店・訪問・オンラインから選べます。</p>
+<p style="margin:0;"><a href="https://h.accesstrade.net/sp/cc?rk=0100pflv00os2i" target="_blank" rel="nofollow sponsored noopener">👉 みんなの生命保険アドバイザーで無料相談してみる</a></p>
+</div>
 
 ---
 
