@@ -354,9 +354,10 @@ iDeCoを活用すると所得控除がさらに広がります。[iDeCoが子ど
 
 ## あわせて読みたい 📖
 
-- [受験期に離婚…教育費はいくら？シンママが2人受験を乗り切った全内訳](/posts/divorce-and-exam/)
-- [離婚後に見直したこと10選](/posts/divorce-review-10/)
-- [高校受験は塾なし・学校のワークだけで合格。今は奨学金で塾へ](/posts/juku-studysapuri/)
+- [離婚後にやること一覧｜手続きチェックリスト](/posts/rikon-tetsuzuki/)
+- [ひとり親控除とは？年末調整で申請できる！シングルマザーが節税額を解説](/posts/hitorioya-kojin-koujyo/)
+- [シングルマザーの高等職業訓練促進給付金体験談](/posts/shokugyo-kunren-kyufukin/)
+- [知らないと損！iDeCoが子どもの奨学金に影響する理由](/posts/ideco-scholarship/)
 
 
 ---

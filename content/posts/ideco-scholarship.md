@@ -217,8 +217,9 @@ iDeCoの掛金は全額所得控除になります。
 ## あわせて読みたい 📖
 
 - [40代シンママがNISAを始めた理由](/posts/nisa-start/)
+- [シンママがiDeCoを始めた理由と注意点](/posts/ideco-start/)
 - [高校生が給付型奨学金を2つもらっている話](/posts/shogakukin-multiple/)
-- [大学生の国民年金を親が払うと節税になる](/posts/nenkin-ikkatsu/)
+- [JASSO奨学金を借りる前に知っておくこと｜給付型を選んだ理由](/posts/jasso-shougakukin/)
 
 
 ---

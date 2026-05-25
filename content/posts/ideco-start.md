@@ -216,8 +216,9 @@ iDeCoを始めるか迷っているなら、まず自分の状況を確認して
 ## あわせて読みたい 📖
 
 - [iDeCoが子どもの奨学金に影響する理由](/posts/ideco-scholarship/)
+- [40代シングルマザーがNISAを始めた理由と方法](/posts/nisa-start/)
+- [月1万円から老後資金は作れる｜シングルマザーのNISA・iDeCo積立シミュレーション](/posts/rogo-shikin-simulation/)
 - [ひとり親家庭がもらえるお金・制度まとめ](/posts/hitorioya-seido/)
-- [SBI証券でNISA口座を開設した話](/posts/sbi-nisa-account/)
 
 
 ---

@@ -219,8 +219,9 @@ JASSO（日本学生支援機構）は、国が運営する奨学金制度です
 ## あわせて読みたい 📖
 
 - [高校生が給付型奨学金を申請する方法](/posts/shougakukin-apply/)
+- [【ひとり親向け】返済不要の給付型奨学金まとめ｜高校生・大学生が使える財団5選](/posts/shogakukin-kyufu-matome/)
+- [JASSOの予約採用申請｜高校生が先に奨学金を確保する方法](/posts/jasso-yoyaku/)
 - [知らないと損！iDeCoが子どもの奨学金に影響する理由](/posts/ideco-scholarship/)
-- [ひとり親家庭がもらえるお金・制度まとめ](/posts/hitorioya-seido/)
 
 
 ---

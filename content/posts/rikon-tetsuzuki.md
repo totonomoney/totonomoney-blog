@@ -297,7 +297,8 @@ cover:
 
 - [弁護士を入れて養育費月20万円を確保した話](/posts/youikuhi/)
 - [ひとり親家庭がもらえるお金・制度まとめ](/posts/hitorioya-seido/)
-- [離婚から10年、シンママの家計をふりかえる](/posts/divorce-review-10/)
+- [ひとり親控除とは？年末調整で申請できる！シングルマザーが節税額を解説](/posts/hitorioya-kojin-koujyo/)
+- [年金分割の手続き｜離婚後2年以内に忘れずに](/posts/nenkin-bunkatsu/)
 
 
 ---

@@ -174,8 +174,9 @@ NISAを始めた経緯は[こちらの記事](/posts/nisa-start/)に詳しく書
 
 ---
 
-## あわせて読みたい
+## あわせて読みたい 📖
 
 - [シングルマザーになって後悔したお金のこと7つ](/posts/okane-koukai-7/)
 - [40代シンママが保険を全部見直した話](/posts/hoken-40dai-minaoshi/)
-- [シングルマザーに本当に必要な保険](/posts/hoken-minaoshi/)
+- [ひとり親が使える手当・制度まとめ【2026年版】](/posts/hitorioya-seido/)
+- [40代シングルマザーがNISAを始めた理由と方法](/posts/nisa-start/)

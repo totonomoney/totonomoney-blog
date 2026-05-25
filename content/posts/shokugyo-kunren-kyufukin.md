@@ -410,6 +410,7 @@ Webデザイン・Webマーケティングのスキルは、
 
 ## あわせて読みたい 📖
 
-- [ひとり親家庭がもらえるお金・制度まとめ](/posts/hitorioya-seido/)
-- [【ひとり親向け】返済不要の給付型奨学金まとめ](/posts/shogakukin-kyufu-matome/)
+- [ひとり親が使える手当・制度まとめ【2026年版】](/posts/hitorioya-seido/)
+- [ひとり親控除とは？年末調整で申請できる！シングルマザーが節税額を解説](/posts/hitorioya-kojin-koujyo/)
+- [40代シングルマザーがNISAを始めた理由と方法](/posts/nisa-start/)
 - [知らないと損！iDeCoが子どもの奨学金に影響する理由](/posts/ideco-scholarship/)
