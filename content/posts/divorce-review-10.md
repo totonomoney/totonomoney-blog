@@ -24,6 +24,19 @@ cover:
 
 同じような状況の方に、少しでも参考になれば嬉しいです。
 
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>離婚後にシングルマザーがやるべき10のことが優先順位つきでわかる</li>
+<li>格安SIM・保険・サブスク・ひとり親申請の具体的な手順がわかる</li>
+<li>「何から手をつけていいかわからない」を解消できる</li>
+</ul>
+</div>
+
 ---
 
 ## 1. 携帯料金を格安SIMに変えた 📱

@@ -20,7 +20,18 @@ cover:
 
 この記事では、実際にやめたカードと2枚に絞って感じた変化をリアルにまとめます。
 
+<!--more-->
+
 <p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>クレジットカードを3枚→2枚に絞って年2万円の差が出た理由がわかる</li>
+<li>楽天・イオン・JALを比較してやめたカードを選んだ基準がわかる</li>
+<li>ポイントを集中させるシンプルなカード管理術がわかる</li>
+</ul>
+</div>
 
 ---
 

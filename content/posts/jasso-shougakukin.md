@@ -24,6 +24,19 @@ cover:
 
 シンママ家庭だからこそ、まずここから調べてほしいと思っています。
 
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>貸与型より給付型奨学金を狙うべき理由がわかる</li>
+<li>ひとり親家庭が給付型を受けやすい条件がわかる</li>
+<li>長女が実際に給付型を受給できた申請のポイントがわかる</li>
+</ul>
+</div>
+
 ---
 
 ## JASSOとは？

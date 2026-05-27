@@ -16,8 +16,6 @@ cover:
 
 通帳記帳もExcelも不要。銀行・クレカ・NISA・iDeCoを全部連携して、資産が一目でわかる状態になりました。
 
-<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
-
 離婚が成立したとき、頭の中にあったのは子どものことだけでした。
 
 でも少し落ち着いたとき、ふと気づきました。
@@ -33,6 +31,19 @@ cover:
 そのとき使い始めたのが、**マネーフォワードME**です。
 
 あれから使い続けて、今も手放せないアプリになっています。
+
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>マネーフォワードMEがシングルマザーの家計管理に向いている理由がわかる</li>
+<li>銀行・クレカ・NISA・iDeCoを一括管理する方法がわかる</li>
+<li>家計管理が苦手なひとり親が続けられるコツがわかる</li>
+</ul>
+</div>
 
 ---
 

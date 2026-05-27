@@ -24,6 +24,19 @@ cover:
 
 今日は私が使い続けているサブスクと、その理由を全部話します。
 
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>「全部やめる」ではなく「価値で残す」サブスクの選び方がわかる</li>
+<li>シングルマザーが使い続けているサブスク5つとその理由がわかる</li>
+<li>なんとなく払い続けているサブスクの見直し方がわかる</li>
+</ul>
+</div>
+
 ---
 
 ## 「とりあえずやめる」より「価値を考える」

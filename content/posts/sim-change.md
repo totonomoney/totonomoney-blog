@@ -26,6 +26,19 @@ cover:
 
 **3人合わせて月1万円以下になりました** 📱
 
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>家族3人のスマホ代を月2万円→1万円以下に下げた方法がわかる</li>
+<li>ワイモバイル乗り換えの手順と家族割のメリットがわかる</li>
+<li>「繋がりにくくなるのでは」という不安の実際の答えがわかる</li>
+</ul>
+</div>
+
 ---
 
 ## なぜ今まで変えなかったのか

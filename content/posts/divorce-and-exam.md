@@ -29,6 +29,19 @@ cover:
 
 この記事では、受験にいくらかかったか・入学にいくらかかったか、実際の数字と合わせて、私がやった対策をすべて公開します。
 
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>受験と離婚が重なった年にかかった費用の実数がわかる</li>
+<li>毎月3万円以上削減できた固定費の見直し内容がわかる</li>
+<li>ひとり親支援・養育費・スマホ代で何をやったかがわかる</li>
+</ul>
+</div>
+
 ---
 
 ## 2人同時受験の年に、離婚した

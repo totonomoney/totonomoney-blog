@@ -23,6 +23,19 @@ cover:
 
 シンママ目線で、わかりやすく解説します 📝
 
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>iDeCoの所得控除が子どもの給付型奨学金審査に有利になる理由がわかる</li>
+<li>月2.3万円の掛金で所得がどれだけ下がるかがわかる</li>
+<li>奨学金を検討中のシンママがiDeCoを使う際の注意点がわかる</li>
+</ul>
+</div>
+
 ---
 
 ## iDeCoって何？（ざっくりおさらい）

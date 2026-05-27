@@ -28,6 +28,19 @@ cover:
 
 知らないまま過ごしていたら、ずっと損していたところでした。
 
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>ひとり親医療費助成は「親本人も対象」になることがわかる</li>
+<li>申請方法・対象範囲・自治体による違いがわかる</li>
+<li>実際にいくら無料になったか、シンママの申請実体験がわかる</li>
+</ul>
+</div>
+
 ---
 
 ## ひとり親医療費助成制度とは？

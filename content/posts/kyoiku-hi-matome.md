@@ -22,6 +22,19 @@ cover:
 
 正直に書くので、参考にしてもらえると嬉しいです。
 
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>子ども2人（高校・大学）の教育費の実額（受験〜入学まで200万円超）がわかる</li>
+<li>塾代・受験料・入学金など項目別の内訳がわかる</li>
+<li>シングルマザーがどうやって教育費を工面したかがわかる</li>
+</ul>
+</div>
+
 ---
 
 ## 結論：2人分の教育費は想像以上だった

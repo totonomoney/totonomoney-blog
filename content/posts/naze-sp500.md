@@ -12,8 +12,6 @@ cover:
 
 こんにちは、まゆみんです。
 
-<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
-
 NISAで何を買えばいいか、ずっと迷っていました。
 
 調べるほど「オルカンかS&P500か」で迷う。
@@ -31,6 +29,19 @@ NISAで何を買えばいいか、ずっと迷っていました。
 でも何を買えばいいかわからない。そこから調べ始めたのがS&P500との出会いです。
 
 なぜそれを選んだのか、正直に書きます。
+
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>オルカンかS&P500かで迷ったときの判断基準がわかる</li>
+<li>eMAXIS Slim 米国株式（S&P500）1本に絞った理由がわかる</li>
+<li>投資初心者のシンママが「難しく考えない」ための考え方がわかる</li>
+</ul>
+</div>
 
 ---
 
