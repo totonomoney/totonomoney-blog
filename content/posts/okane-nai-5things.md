@@ -26,6 +26,15 @@ cover:
 
 <p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
 
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>「お金がない」シンママが最初にやるべき5つのことがわかる</li>
+<li>節約より先に手をつけるべきことがわかる</li>
+<li>保険を見直して月3万円以上を捻出した実体験がわかる</li>
+</ul>
+</div>
+
 私もそうでした。
 
 ---

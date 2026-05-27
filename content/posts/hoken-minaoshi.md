@@ -27,6 +27,15 @@ cover:
 
 <p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
 
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>シングルマザーに本当に必要な保険がわかる</li>
+<li>保険料を月4〜5万円→数千円台に削減した見直し手順がわかる</li>
+<li>掛け捨てだけで十分な理由（FP2級の視点で解説）がわかる</li>
+</ul>
+</div>
+
 **「わかっていないまま払い続けているお金が、こんなにあるんだ」**と。
 
 毎月**4〜5万円**払っていた保険料は、見直しの結果**数千円台**まで減りました。

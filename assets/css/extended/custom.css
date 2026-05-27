@@ -1158,6 +1158,51 @@ a:hover { color: var(--accent); }
     text-decoration: underline;
 }
 
+/* ===== この記事でわかること ===== */
+.article-summary-box {
+    background: linear-gradient(135deg, #FDF6EE 0%, #F5EDE0 100%);
+    border: 1px solid #D4BFA8;
+    border-left: 4px solid #7A6652;
+    border-radius: 8px;
+    padding: 1.2em 1.6em 1.2em 1.4em;
+    margin: 1.5em 0 2em;
+}
+
+.article-summary-title {
+    font-family: 'Shippori Mincho', serif;
+    font-weight: 700;
+    color: #4A3728;
+    font-size: 0.95em;
+    margin: 0 0 0.7em !important;
+    letter-spacing: 0.05em;
+}
+
+.article-summary-box ul {
+    margin: 0;
+    padding-left: 1.3em;
+}
+
+.article-summary-box ul li {
+    font-size: 0.9em;
+    color: #5A3E2B;
+    line-height: 1.85;
+    margin-bottom: 0.25em;
+}
+
+.dark .article-summary-box {
+    background: linear-gradient(135deg, #2A2420 0%, #251F1A 100%);
+    border-color: #4A3A2A;
+    border-left-color: #7A6652;
+}
+
+.dark .article-summary-title {
+    color: #E8D8C8 !important;
+}
+
+.dark .article-summary-box ul li {
+    color: #C8B0A0;
+}
+
 /* ===== コードブロック（計算式など） ===== */
 .post-content pre {
     background: #F0E8D8 !important;

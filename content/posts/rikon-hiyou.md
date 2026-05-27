@@ -12,8 +12,6 @@ cover:
 
 こんにちは、まゆみんです。
 
-<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
-
 離婚を考えているとき、一番気になったのは
 
 **「いったいいくらかかるんだろう」**
@@ -25,6 +23,19 @@ cover:
 調べてもリアルな数字がなかなか出てこなかった。
 
 だから、私の場合の実際の金額を全部書きます。
+
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>離婚にかかるお金の実額（弁護士費用160万円・慰謝料300万円）がわかる</li>
+<li>婚姻費用・引越し費用など各項目の内訳がわかる</li>
+<li>「支出より収入が多かった」シンママのリアルな数字がわかる</li>
+</ul>
+</div>
 
 ---
 

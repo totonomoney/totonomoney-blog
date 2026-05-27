@@ -22,6 +22,16 @@ cover:
 
 <p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
 
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>NISAとは何か（税金ゼロの投資口座）がシンプルにわかる</li>
+<li>40代から始めても遅くない理由と根拠がわかる</li>
+<li>月1万円から始めて10万円に増やしたリアルな体験がわかる</li>
+<li>SBI証券での口座開設・積立設定の流れがわかる</li>
+</ul>
+</div>
+
 投資を始めたのは、**離婚前**でした。
 
 きっかけは、姉のひと言でした。

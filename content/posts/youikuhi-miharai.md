@@ -29,6 +29,19 @@ cover:
 
 だから調べ続けています。2026年4月、民法が大きく変わりました。
 
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>2026年4月の民法改正で養育費の強制執行が何が変わったかがわかる</li>
+<li>公正証書なしでも差押えできるようになった新ルールがわかる</li>
+<li>審判書・公正証書・養育費保証の違いと使い分けがわかる</li>
+</ul>
+</div>
+
 ---
 
 こんにちは、まゆみんです。

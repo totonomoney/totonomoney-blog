@@ -22,6 +22,19 @@ cover:
 
 でも、後悔はまったくしていません。
 
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>養育費の相場と、弁護士交渉で上乗せできる可能性がわかる</li>
+<li>審判書を取ると何が変わるか（強制執行との関係）がわかる</li>
+<li>弁護士費用160万円かけて養育費月20万円を得た実体験がわかる</li>
+</ul>
+</div>
+
 ---
 
 ## 養育費の平均って、知っていますか？

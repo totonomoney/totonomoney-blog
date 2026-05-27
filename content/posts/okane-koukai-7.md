@@ -23,6 +23,15 @@ cover:
 
 <p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
 
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>40代シンママがお金のことで後悔した7つのことがわかる</li>
+<li>保険・貯蓄型保険・NISA・iDeCoで「もっと早く知りたかった」話がわかる</li>
+<li>同じ後悔をしないために今すぐできる最初の一歩がわかる</li>
+</ul>
+</div>
+
 ## 後悔①：お金の勉強を「結婚してから」しなかったこと
 
 私がFP3級を取ったのは離婚前。FP2級は離婚後でした。

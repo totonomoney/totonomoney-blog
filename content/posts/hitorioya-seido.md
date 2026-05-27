@@ -25,6 +25,10 @@ cover:
 
 今日は私が実際に使っている・調べた制度をまとめました 📝
 
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
 ---
 
 ## この記事でわかること：全部使うといくら？

@@ -34,6 +34,19 @@ cover:
 
 特に児童扶養手当は申請した月の翌月分からしか受け取れません。1日でも早い申請が、毎月のお金に直結します。
 
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>離婚後にやるべき手続きの全カテゴリ一覧がわかる</li>
+<li>期限のある手続き（遅れると損するもの）がわかる</li>
+<li>役所・保険・年金・児童扶養手当・子ども関係の手順がわかる</li>
+</ul>
+</div>
+
 ---
 
 ## まず知っておいてほしいこと

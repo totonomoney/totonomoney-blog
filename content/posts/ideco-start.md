@@ -51,6 +51,19 @@ iDeCoの掛金は**全額所得控除**になります。
 
 そのことを知ったとき、やらない理由がないと思いました。
 
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>シングルマザーがiDeCoを始めた理由（老後だけじゃない）がわかる</li>
+<li>iDeCoが児童扶養手当・給付型奨学金の審査に影響する仕組みがわかる</li>
+<li>SBI証券でのiDeCo開始手順とデメリットも正直に書いています</li>
+</ul>
+</div>
+
 ---
 
 ## 児童扶養手当との関係

@@ -21,6 +21,15 @@ cover:
 
 <p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
 
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>40代シンママが離婚後に保険を全部見直した実体験がわかる</li>
+<li>月4〜5万円の保険料を数千円台に削減した具体的な手順がわかる</li>
+<li>何を切り捨てて何を残したか、判断の基準がわかる</li>
+</ul>
+</div>
+
 40代でシングルマザーになりました。
 
 離婚が決まったのは、長女が大学受験、次女が高校受験という、人生で一番バタバタしていた秋のことです。

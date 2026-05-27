@@ -25,6 +25,15 @@ cover:
 
 <p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
 
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>離婚前の半年間にやること・やっておくべきことの全リストがわかる</li>
+<li>証拠の集め方・財産の把握・弁護士との動き方がわかる</li>
+<li>シングルマザーが離婚後の生活を守るために準備すべきことがわかる</li>
+</ul>
+</div>
+
 ---
 
 ## 離婚を決めた日のこと
