@@ -184,11 +184,17 @@ cover:
 
 それがシンママの日常です。
 
+<div style="background:#f0f8ff;border:1px solid #7ab3d0;padding:1.4em 1.8em;margin:2em 0;border-radius:6px;">
+<p style="margin:0 0 0.5em;font-weight:bold;font-size:1.05em;">▶ 「万が一私に何かあったら」― 娘の受験期に保険を見直した</p>
+<p style="margin:0 0 0.8em;font-size:0.95em;">娘が塾で頑張る姿を見て、「私がいなくなったら」とリアルに考えた。それが保険を全部見直したきっかけです。中立なFPに相談して、月4万円超の保険料を数千円台まで下げました。</p>
+<p style="margin:0;"><a href="https://h.accesstrade.net/sp/cc?rk=0100pflv00os2i" target="_blank" rel="nofollow sponsored noopener">👉 みんなの生命保険アドバイザーで無料相談してみる</a></p>
+</div>
+
 ---
 
 ## 教育費の不安と奨学金という救い
 
-シンママで2人の子どもを育てながら、医学部受験の費用を出すのは簡単ではありません。
+2人の子どもを育てながら、医学部受験の費用を出すのは簡単ではありません。
 
 でも給付型奨学金のおかげで、「お金がないから諦めて」とは言わずに済んでいます。
 
