@@ -251,11 +251,6 @@ cover:
 
 また、健康保険を切り替えるタイミングは、生命保険そのものを見直す絶好の機会でもあります。私自身、ここで保険を全部見直して月4〜5万円→数千円台になりました。
 
-<div style="background:#f0f8ff;border:1px solid #7ab3d0;padding:1.4em 1.8em;margin:2em 0;border-radius:6px;">
-<p style="margin:0 0 0.5em;font-weight:bold;font-size:1.05em;">▶ 離婚後の保険見直し ― みんなの生命保険アドバイザー</p>
-<p style="margin:0 0 0.8em;font-size:0.95em;">「ひとり親になったあと、本当に必要な保障」を中立なFPが無料で整理してくれます。オンライン相談OK・契約強制なし。</p>
-<p style="margin:0;"><a href="https://h.accesstrade.net/sp/cc?rk=0100pflv00os2i" target="_blank" rel="nofollow sponsored noopener">👉 みんなの生命保険アドバイザーで無料相談してみる</a></p>
-</div>
 
 一つひとつ、確実にこなしていきましょう。
 

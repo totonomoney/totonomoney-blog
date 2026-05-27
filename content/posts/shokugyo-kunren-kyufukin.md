@@ -380,11 +380,6 @@ Webデザイン・Webマーケティングのスキルは、
 
 ## 私が通ったスクール
 
-<div style="background:#f8f3ea;border:1px solid #c8a96e;padding:1.4em 1.8em;margin:2em 0;border-radius:6px;">
-<p style="margin:0 0 0.5em;font-weight:bold;font-size:1.05em;">▶ ひとり親・働く女性向け 無料カウンセリング ― インターネットアカデミー</p>
-<p style="margin:0 0 0.8em;font-size:0.95em;">Webデザイン・Webマーケティング・プログラミングなど、社会人向けのオンライン受講に対応。ひとり親・働く女性を対象とした無料カウンセリングあり。給付金の活用方法も一緒に確認できます。話を聞くだけでもOK。</p>
-<p style="margin:0;"><a href="https://af.moshimo.com/af/c/click?a_id=5527467&p_id=5011&pc_id=13435&pl_id=73917" target="_blank" rel="nofollow sponsored noopener">👉 無料カウンセリングを申し込む（インターネットアカデミー）</a><img src="//i.moshimo.com/af/i/impression?a_id=5527467&p_id=5011&pc_id=13435&pl_id=73917" width="1" height="1" style="border:none;" loading="lazy"></p>
-</div>
 
 ---
 

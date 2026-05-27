@@ -3,14 +3,13 @@ title: "無料の保険相談って怖くない？仕組みを知ったら安心
 date: 2026-05-24
 draft: true
 description: "無料の保険相談って怪しい・押し売りされそうと思っていませんか？保険代理店の収益の仕組みを知れば、なぜ無料で成り立つのかわかります。シングルマザーが相談前に知っておきたいことをまとめました。"
+summary: "無料の保険相談って怪しい・押し売りされそうと思っていませんか？保険代理店の収益の仕組みを知れば、なぜ無料で成り立つのかわかります。シングルマザーが相談前に知っておきたいことをまとめました。"
 tags: ["保険", "シンママ", "無料相談", "節約", "お金の考え方"]
 categories: ["お金・節約"]
 cover:
   image: /images/hoken-muryou-soudan.jpg
   alt: "書類・ペン・植物のフラットレイ"
 ---
-
-<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
 
 こんにちは、まゆみんです。
 
@@ -23,6 +22,10 @@ cover:
 保険の無料相談サービスを知ったとき、最初に思ったのもそれでした。
 
 「無料で相談に乗ってくれるって、どういうこと？」
+
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
 
 「結局、保険を売りつけられるんじゃないの？」
 

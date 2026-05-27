@@ -450,6 +450,11 @@ a:hover { color: var(--accent); }
     max-width: 680px;
 }
 
+.post-content p {
+    margin-top: 0;
+    margin-bottom: 0.75em;
+}
+
 .post-content h2 {
     font-family: 'Shippori Mincho', serif;
     background: var(--accent-light);
@@ -493,9 +498,9 @@ a:hover { color: var(--accent); }
 /* ===== 表 ===== */
 .table-wrapper {
     display: block;
+    width: 100%;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
-    max-width: 100%;
     margin: 1.5rem 0;
 }
 
@@ -504,6 +509,7 @@ a:hover { color: var(--accent); }
     border-collapse: collapse;
     border: 1px solid var(--border);
     width: 100%;
+    table-layout: auto;
 }
 
 .post-content table th {
@@ -515,6 +521,10 @@ a:hover { color: var(--accent); }
     text-align: left;
     letter-spacing: 0.05em;
     border-right: 1px solid var(--border);
+    word-break: normal;
+    overflow-wrap: break-word;
+    min-width: 80px;
+    white-space: normal;
 }
 
 .post-content table td {
@@ -522,6 +532,9 @@ a:hover { color: var(--accent); }
     font-size: 0.88rem;
     border-bottom: 1px solid var(--border);
     border-right: 1px solid var(--border);
+    word-break: normal;
+    overflow-wrap: break-word;
+    white-space: normal;
 }
 
 .post-content table th:last-child,
@@ -944,6 +957,12 @@ a:hover { color: var(--accent); }
 
     .post-content table {
         font-size: 0.8rem;
+    }
+
+    .post-content table th,
+    .post-content table td {
+        padding: 7px 10px;
+        min-width: 60px;
     }
 
     .table-wrapper {

@@ -187,10 +187,10 @@ iDeCoは使い方を考えてこそ意味がある制度です。
 
 ---
 
-<div style="background:#f0f8ff;border:1px solid #7ab3d0;padding:1.4em 1.8em;margin:2em 0;border-radius:6px;">
-<p style="margin:0 0 0.5em;font-weight:bold;font-size:1.05em;">▶ 年金・老後資金の無料相談 ― 保険ガーデン</p>
-<p style="margin:0 0 0.8em;font-size:0.95em;">iDeCoをどう活用すべきか迷ったら、FPへの無料相談がおすすめ。自分の年収・状況に合った使い方を一緒に考えてくれます。話を聞くだけでもOK。</p>
-<p style="margin:0;"><a href="https://t.afi-b.com/visit.php?a=X14272H-D468442l&p=a981986P" target="_blank" rel="nofollow sponsored noopener">👉 保険ガーデンで無料相談してみる</a></p>
+<div style="background:#f8f3ea;border:1px solid #c8a96e;padding:1.4em 1.8em;margin:2em 0;border-radius:6px;">
+<p style="margin:0 0 0.5em;font-weight:bold;font-size:1.05em;">▶ SBI証券でiDeCoを始める（無料・スマホで完結）</p>
+<p style="margin:0 0 0.8em;font-size:0.95em;">iDeCo口座の開設・維持費は0円。掛金の商品はeMAXIS Slim S&P500など低コスト投信が豊富。口座開設はオンラインで完結します。</p>
+<p style="margin:0;"><a href="https://www.sbisec.co.jp/ETGate/WPLETmgR001Control?display=1&getFlg=on&burl=search_ideco&cat1=ideco&cat2=none&dir=ideco&file=ideco_top.html" target="_blank" rel="nofollow sponsored noopener">👉 SBI証券のiDeCo口座開設はこちら（無料）</a></p>
 </div>
 
 ---
@@ -201,7 +201,7 @@ iDeCoを始めるか迷っているなら、まず自分の状況を確認して
 
 **「SBI証券のiDeCo専用ページを開いて、掛金シミュレーションを試してみる」**
 
-<!-- SBI証券リンク：ASP承認後に追加 -->
+👉 [SBI証券 iDeCo掛金シミュレーション](https://www.sbisec.co.jp/ETGate/WPLETmgR001Control?display=1&getFlg=on&burl=search_ideco&cat1=ideco&cat2=none&dir=ideco&file=ideco_top.html)
 
 月2.3万円の掛金で、年間いくら節税できるか数字で見えます。
 
