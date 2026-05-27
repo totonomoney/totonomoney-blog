@@ -26,6 +26,19 @@ cover:
 
 この記事で、制度の実態を整理します。
 
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>2026年度の就学支援金「所得制限撤廃」で何が変わったかがわかる</li>
+<li>公立・私立それぞれの実質負担額がわかる</li>
+<li>「無償化」で対象外の費用（授業料以外）がわかる</li>
+</ul>
+</div>
+
 ---
 
 ## 2026年度から変わったこと

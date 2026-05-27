@@ -20,7 +20,18 @@ cover:
 
 この記事では、実際に見直してわかった「おすすめの格安SIM」と選び方をまとめます。
 
+<!--more-->
+
 <p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>格安SIM3社（楽天・IIJmio・mineo）のシンママ目線の比較がわかる</li>
+<li>月7,000円→2,000円台に下げた乗り換え実体験がわかる</li>
+<li>2026年版の最新料金とおすすめの選び方がわかる</li>
+</ul>
+</div>
 
 ---
 

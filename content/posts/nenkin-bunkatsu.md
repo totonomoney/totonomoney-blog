@@ -26,6 +26,19 @@ cover:
 私は審判書に入れるつもりが書類の不備でできず、離婚後に自分で郵送手続きをしました。
 同じことで困っている方の参考になればと思い、正直に書きます。
 
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>離婚後の年金分割とは何か・手続きの期限がわかる</li>
+<li>合意分割を自分で郵送手続きした実体験がわかる</li>
+<li>審判書に入れられなかった失敗談と注意点がわかる</li>
+</ul>
+</div>
+
 ---
 
 ## 年金分割とは

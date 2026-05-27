@@ -12,8 +12,6 @@ cover:
 
 こんにちは、まゆみんです。
 
-<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
-
 投資を始めたきっかけは、姉の一言でした。
 
 **「まゆみん、あんた資産ないなー」**
@@ -33,6 +31,19 @@ cover:
 最初は月1万円。今は月12.3万円。
 
 あのとき動いてよかったと、心から思っています。
+
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>SBI証券でNISAを始めた理由と口座開設の手順がわかる</li>
+<li>月1万円→12.3万円（NISA+iDeCo）まで増やした実態がわかる</li>
+<li>SBI証券を使い続ける具体的なメリットがわかる</li>
+</ul>
+</div>
 
 ---
 

@@ -24,6 +24,19 @@ cover:
 
 この記事では、月1万円・3万円・5万円の3パターンで、20年後にどれくらいの資産になるかをシミュレーションします。
 
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>月1万円・3万円・5万円の20年後の資産額シミュレーションがわかる</li>
+<li>シングルマザーが年金だけでは足りない理由と数字がわかる</li>
+<li>NISA・iDeCoの組み合わせで老後資金を作るイメージがわかる</li>
+</ul>
+</div>
+
 ---
 
 ## シンママの年金はいくらもらえるのか

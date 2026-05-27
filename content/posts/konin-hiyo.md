@@ -28,6 +28,19 @@ cover:
 
 これを知っていたか知らなかったかで、別居中の生活が大きく変わります。
 
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>婚姻費用とは何か・いつから・いくら請求できるかがわかる</li>
+<li>弁護士なしで自分で家庭裁判所に申立てた実体験がわかる</li>
+<li>月14万円を約1年間受け取れた条件と手順がわかる</li>
+</ul>
+</div>
+
 ---
 
 ## 婚姻費用とは

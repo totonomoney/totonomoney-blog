@@ -26,6 +26,19 @@ iDeCoも一緒に管理できて、仕送りの自動送金もできる。
 
 この記事では、シンママ目線でSBI証券と楽天証券を比較して、私がSBIを選んだ理由をお伝えします。
 
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>SBI証券と楽天証券の違い（シンママ目線の比較）がわかる</li>
+<li>FP2級のまゆみんがSBI証券を選んだ理由がわかる</li>
+<li>NISA口座を1つだけ選ぶときの判断基準がわかる</li>
+</ul>
+</div>
+
 ---
 
 ## 結論：シンママにはSBI証券がおすすめ

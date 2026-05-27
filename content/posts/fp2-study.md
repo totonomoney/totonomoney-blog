@@ -12,8 +12,6 @@ cover:
 
 こんにちは、まゆみんです。
 
-<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
-
 FP2級を取る前の私は、**年金の仕組みも、税金の種類も、何もわかっていませんでした。**
 
 「確定申告って何？」「iDeCoって？」「所得控除って？」
@@ -31,6 +29,19 @@ FP2級を取って本当によかったと思っています。
 養育費が止まったときの対処法は[養育費が払われなくなったら？](/posts/youikuhi-miharai/)にまとめています。
 
 勉強期間・費用・使った教材・合格までの道のりを全部書きます。
+
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>お金の知識ゼロからFP2級に合格した独学の方法がわかる</li>
+<li>使った参考書・過去問・無料アプリの具体的な活用法がわかる</li>
+<li>FP2級を取ってシンママの生活がどう変わったかがわかる</li>
+</ul>
+</div>
 
 ---
 

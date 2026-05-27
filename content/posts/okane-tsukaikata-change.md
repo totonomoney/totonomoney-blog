@@ -24,6 +24,19 @@ cover:
 
 今日は離婚後に変えたこと・やめたこと・始めたことを全部話します。
 
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>シングルマザーになってやめたお金の使い方がわかる</li>
+<li>保険・サブスク・投資で何をどう変えたかがわかる</li>
+<li>「節約より考え方が変わった」離婚後のお金の実態がわかる</li>
+</ul>
+</div>
+
 ---
 
 ## 1. 保険を全部見直した
