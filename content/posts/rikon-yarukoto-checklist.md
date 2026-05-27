@@ -23,6 +23,19 @@ cover:
 この記事では、離婚後にやることを**時系列順**に整理します。
 私が後悔した「やり忘れ」も正直に書きます。
 
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>離婚当日〜3か月以内にやることを時系列順で把握できる</li>
+<li>期限のある手続き（遅れると損するもの）がわかる</li>
+<li>シングルマザーが後悔した「やり忘れ3つ」がわかる</li>
+</ul>
+</div>
+
 ---
 
 ## まず最初に：この記事の使い方

@@ -26,6 +26,19 @@ cover:
 
 今日は、その計算を正直に公開します 📝
 
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>シングルマザーに必要な老後資金の目標額の決め方がわかる</li>
+<li>NISA＋iDeCoで65歳時点の資産をFPが逆算したシミュレーションがわかる</li>
+<li>「なんとかなるかもしれない」と思えた具体的な数字がわかる</li>
+</ul>
+</div>
+
 ---
 
 ## シンママの老後は「ひとりで全部」が前提

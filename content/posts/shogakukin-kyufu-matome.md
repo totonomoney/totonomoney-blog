@@ -27,6 +27,19 @@ cover:
 
 わが家の次女の体験は[高校生が給付型奨学金を2つもらっている話](/posts/shogakukin-multiple/)に書いています。
 
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>返済不要の給付型奨学金がひとり親家庭で使える財団5選がわかる</li>
+<li>給付型と貸与型の違い・選び方の基準がわかる</li>
+<li>シングルマザーが実際に申請した経験をもとにしたポイントがわかる</li>
+</ul>
+</div>
+
 ---
 
 ## 給付型奨学金って何が違うの？

@@ -12,8 +12,6 @@ cover:
 
 こんにちは、まゆみんです。
 
-<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
-
 離婚後に一番助かった本が「お金の大学」（両学長）です。
 
 「何から始めればいいか」がわからなかった私が、この本を読んでやることが見えました。
@@ -27,6 +25,19 @@ cover:
 私の愛読書です。
 
 離婚後、一人でお金のことを全部判断しなければならなくなったとき、この本が考え方の土台になりました。
+
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>離婚後のお金不安に効いた本「お金の大学」の中身がわかる</li>
+<li>シングルマザーに刺さった理由・読んでよかったポイントがわかる</li>
+<li>子ども向けマンガ版もあわせて紹介</li>
+</ul>
+</div>
 
 ---
 

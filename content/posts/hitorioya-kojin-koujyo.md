@@ -24,6 +24,19 @@ cover:
 
 FP2級を取ってから節税の仕組みがわかるようになったので、実際にやってみたことをもとに解説します。
 
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>ひとり親控除の金額・条件・申請場所がわかる</li>
+<li>年末調整で申請できる（確定申告不要）理由がわかる</li>
+<li>特定扶養控除との併用で年間約18万円の節税になる仕組みがわかる</li>
+</ul>
+</div>
+
 ---
 
 ## ひとり親控除とは？

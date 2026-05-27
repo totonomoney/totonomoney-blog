@@ -22,6 +22,19 @@ cover:
 
 私が毎年やっている年末調整の申請を全部公開します。
 
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>会社員シンママに確定申告が必要なケース・不要なケースがわかる</li>
+<li>ひとり親控除・iDeCo・生命保険料控除を年末調整で申請する方法がわかる</li>
+<li>申請し忘れで損しやすい控除のポイントがわかる</li>
+</ul>
+</div>
+
 ---
 
 ## 会社員シンママに確定申告は必要か？

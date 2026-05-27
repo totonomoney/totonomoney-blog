@@ -22,6 +22,19 @@ cover:
 
 高校3年生の春に動き始めることが、一番大事なポイントです。
 
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>JASSOの予約採用とは何か・高3春に動くべき理由がわかる</li>
+<li>給付型と貸与型の違い・どちらを選ぶかの判断基準がわかる</li>
+<li>申請の流れと必要書類がわかる</li>
+</ul>
+</div>
+
 ---
 
 ## 予約採用とは？

@@ -25,6 +25,19 @@ cover:
 
 今日は申請の流れを全部公開します 📝
 
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>高校生でも申請できる給付型奨学金があることがわかる</li>
+<li>似鳥国際奨学財団・山田D&I財団の選考の流れがわかる</li>
+<li>申請書類の準備と提出までの実際の手順がわかる</li>
+</ul>
+</div>
+
 ---
 
 ## 給付型奨学金とは？

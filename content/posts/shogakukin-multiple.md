@@ -23,6 +23,19 @@ cover:
 
 「本当に？」と思って一緒に調べ始めました。
 
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>高校生が給付型奨学金を2つ同時受給できた実体験がわかる</li>
+<li>似鳥国際奨学財団・山田D&I財団の選考の特徴がわかる</li>
+<li>複数の給付型奨学金を同時に申請してもいい理由がわかる</li>
+</ul>
+</div>
+
 ---
 
 ## 次女という人間のこと

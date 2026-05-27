@@ -22,6 +22,19 @@ cover:
 2024年10月に制度が大きく変わって、もらえる人・もらえる額が増えました。
 申請が必要なケースもあるので、最後まで読んでみてください。
 
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>2024年の制度改正で児童手当が何が変わったかがわかる</li>
+<li>高校生まで対象・所得制限なし・第3子3万円の詳細がわかる</li>
+<li>シングルマザーが注意すべき受給者変更の手続きがわかる</li>
+</ul>
+</div>
+
 ---
 
 ## 結論：現在の児童手当、何がポイント？

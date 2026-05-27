@@ -22,6 +22,19 @@ cover:
 
 「そんなの知らなかった」という方のために、私が実際にやった手続きをまとめます。
 
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>姓を変えなくても必要な戸籍手続きがあることがわかる</li>
+<li>子どもの戸籍移動の手順と家庭裁判所への申立て方法がわかる</li>
+<li>成人の子がいる場合の注意点がわかる</li>
+</ul>
+</div>
+
 ---
 
 ## 離婚後も姓を変えなかった
