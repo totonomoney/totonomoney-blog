@@ -25,6 +25,19 @@ cover:
 
 高校入学後、進路を考えるうちに医学部を目指すと決めた娘を前に、私にできることは何だろうと考えました。
 
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>シングルマザーの娘が医学部を目指すことになった経緯がわかる</li>
+<li>国立医学部を目指す理由と奨学金の活用方法がわかる</li>
+<li>医学部受験にかかるリアルな費用と準備の実態がわかる</li>
+</ul>
+</div>
+
 ---
 
 ## 医学部を目指したきっかけ

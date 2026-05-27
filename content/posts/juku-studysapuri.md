@@ -29,6 +29,19 @@ cover:
 
 「大丈夫」という次女の一言に、どれだけ救われたかわかりません。
 
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>塾なしで高校受験に合格した次女の実際の勉強法がわかる</li>
+<li>給付型奨学金（月4.5万円）で塾代をまかなう方法がわかる</li>
+<li>シングルマザーが教育費を工面するリアルな工夫がわかる</li>
+</ul>
+</div>
+
 ---
 
 ## 使ったのは「学校のワーク」だけ

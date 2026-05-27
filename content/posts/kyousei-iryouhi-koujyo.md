@@ -32,6 +32,19 @@ cover:
 
 この記事では、ひとり親が医療費控除を使えるケースと、実際の申請方法を解説します。
 
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>子どもの歯列矯正が医療費控除の対象になる条件がわかる</li>
+<li>ひとり親が医療費控除を使えるケースと使えないケースがわかる</li>
+<li>確定申告で取り戻せる金額の目安と手続きの流れがわかる</li>
+</ul>
+</div>
+
 ---
 
 ## ひとり親は普段「医療費控除と無縁」な理由

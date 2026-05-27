@@ -12,8 +12,6 @@ cover:
 
 こんにちは、まゆみんです。
 
-<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
-
 子どもたちのために学資保険に入るべきか、ずっと迷っていました。
 
 でもお金の勉強を始めて、FP2級を取得して、
@@ -24,6 +22,19 @@ cover:
 **学資保険には入りませんでした。代わりにNISAで教育費を準備しています。**
 
 今日は、その理由を数字で説明します。
+
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>学資保険の返戻率とNISAの運用益を数字で比較する方法がわかる</li>
+<li>同じ金額・同じ期間で試算した受取額の差がわかる</li>
+<li>教育費の積み立てにNISAが向いている理由がわかる</li>
+</ul>
+</div>
 
 ---
 

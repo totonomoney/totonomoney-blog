@@ -35,6 +35,19 @@ cover:
 
 でも「どうせ払うなら、ちゃんと考えよう」と思って調べ始めました。
 
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>大学生の子どもの国民年金を親が払うと節税になる仕組みがわかる</li>
+<li>2年分一括前納の節税効果がわかる</li>
+<li>仕送りしながら国民年金を賢く払う方法がわかる</li>
+</ul>
+</div>
+
 ---
 
 ## 大学生でも国民年金は義務

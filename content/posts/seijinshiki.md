@@ -13,8 +13,6 @@ cover:
 
 こんにちは、まゆみんです。
 
-<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
-
 今年の1月、長女の成人式がありました。
 
 年末には必ず帰省してくるので、久しぶりではないのですが・・・
@@ -38,6 +36,19 @@ cover:
 あの大変な時期を乗り越えて、なんとかここまできたなーと、
 
 しみじみ思いました。
+
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>成人式にかかった費用の実際の内訳（振袖・写真・食事）がわかる</li>
+<li>シングルマザーが振袖代をどうやって積み立てたかがわかる</li>
+<li>SBIネット銀行の目的別口座を使った積み立て方法がわかる</li>
+</ul>
+</div>
 
 ---
 

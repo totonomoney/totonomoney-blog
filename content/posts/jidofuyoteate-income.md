@@ -24,6 +24,19 @@ cover:
 
 FP2級を取って自分で計算できるようになったので、実際の数字で解説します。
 
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>「働いたら手当が減る」の正確な仕組みと計算方法がわかる</li>
+<li>2026年度の所得制限・満額の金額がわかる</li>
+<li>養育費がある場合の手当計算の注意点がわかる</li>
+</ul>
+</div>
+
 ---
 
 ## 児童扶養手当とは？まず満額を確認する

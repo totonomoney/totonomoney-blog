@@ -22,6 +22,19 @@ cover:
 
 知っているかどうかで、大きく変わる制度のひとつです。
 
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>似鳥国際奨学財団の奨学金の内容と申請条件がわかる</li>
+<li>ひとり親家庭の中学生・高校生が月4〜4.5万円受け取れる仕組みがわかる</li>
+<li>学校推薦不要・所得制限なしで応募できるポイントがわかる</li>
+</ul>
+</div>
+
 ---
 
 ## 似鳥国際奨学財団とは？

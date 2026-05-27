@@ -28,6 +28,19 @@ cover:
 
 「成績が飛び抜けていないと無理」と思っていたので、採用の連絡が来たときは本当に驚きました。
 
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>山田進太郎D&I財団の奨学金の内容と応募条件がわかる</li>
+<li>抽選制で成績不問・学校推薦不要で応募できる仕組みがわかる</li>
+<li>理系女子高校生のいる家庭が申請するポイントがわかる</li>
+</ul>
+</div>
+
 ---
 
 ## 「理系女子」を増やしたい、という財団の想い

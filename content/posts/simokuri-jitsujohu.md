@@ -23,6 +23,19 @@ cover:
 
 この記事では、私が実際に長女に仕送りしている金額と内訳を全部公開します。
 
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
+
+<div class="article-summary-box">
+<p class="article-summary-title">📋 この記事でわかること</p>
+<ul>
+<li>シングルマザーが大学生に仕送りしている月額と内訳の実態がわかる</li>
+<li>家賃を直接払いにするメリットと管理のしやすさがわかる</li>
+<li>仕送りしながら家計を維持するための工夫がわかる</li>
+</ul>
+</div>
+
 ---
 
 ## 仕送りの全体像：月3万円＋固定費を別途負担
