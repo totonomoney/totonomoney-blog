@@ -505,6 +505,7 @@ a:hover { color: var(--accent); }
 }
 
 .post-content table {
+    display: table; /* PaperModのreset.cssがdisplay:blockにしており、セルが表幅まで伸びず右側が空白になるため打ち消す */
     border-radius: 4px;
     border-collapse: collapse;
     border: 1px solid var(--border);
