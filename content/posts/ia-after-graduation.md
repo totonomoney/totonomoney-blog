@@ -12,8 +12,6 @@ cover:
 
 こんにちは、まゆみんです。
 
-<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
-
 「Webスクールを卒業したのに、結局Web系の仕事をしていない」
 
 そんな人、実は多いんじゃないかと思っています。私もその一人です。
@@ -29,6 +27,10 @@ cover:
 **卒業後、Webデザインでもマーケティングでも、Web系の仕事はしていません。**
 
 それでも「通ってよかった」と思っています。その理由を書きます。
+
+<!--more-->
+
+<p style="font-size:0.85em; color:#888; border:1px solid #ddd; padding:8px 12px; border-radius:4px; margin-bottom:1.5em;">本記事にはアフィリエイトリンクを含みます。</p>
 
 ---
 
