@@ -287,6 +287,7 @@ NISAの場合、売却はいつでも自由。
 
 ## あわせて読みたい 📖
 
+- [月1万円から老後資金を作る｜NISA・iDeCo積立3パターン試算](/posts/rogo-shikin-simulation/)（必要額がわかったら、次は「どう積み立てるか」）
 - [40代シンママがNISAを始めた理由](/posts/nisa-start/)
 - [知らないと損！iDeCoが子どもの奨学金に影響する理由](/posts/ideco-scholarship/)
 - [シンママのリアル家計公開](/posts/real-household-budget/)

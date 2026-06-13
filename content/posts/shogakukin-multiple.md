@@ -268,6 +268,8 @@ iDeCoは老後のためだけじゃなく、
 
 ## あわせて読みたい 📖
 
+- [返済不要の給付型奨学金まとめ｜ひとり親が使える財団5選](/posts/shogakukin-kyufu-matome/)（どんな奨学金があるか全体像はこちら）
+- [ひとり親の高校生が給付型奨学金を申請する手順｜必要書類と流れ](/posts/shougakukin-apply/)（実際の申請のやり方を知りたい方へ）
 - [知らないと損！iDeCoが子どもの奨学金に影響する理由](/posts/ideco-scholarship/)
 - [高校受験は塾なし・学校のワークだけで合格。今は奨学金で塾へ](/posts/juku-studysapuri/)
 - [ひとり親家庭がもらえるお金・制度まとめ](/posts/hitorioya-seido/)
