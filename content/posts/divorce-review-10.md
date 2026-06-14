@@ -331,6 +331,7 @@ NISAを始めた経緯は[40代シンママがNISAを始めた理由](/posts/nis
 
 ## あわせて読みたい 📖
 
+- [シングルマザーの保険無料相談はどこがいい？FP2級が3社を正直に比較](/posts/hoken-muryou-soudan/)
 - [弁護士を入れて養育費月20万円を確保した話](/posts/youikuhi/)
 - [シンママが離婚後に保険を見直した結果](/posts/hoken-minaoshi/)
 - [ひとり親家庭がもらえるお金・制度まとめ](/posts/hitorioya-seido/)
