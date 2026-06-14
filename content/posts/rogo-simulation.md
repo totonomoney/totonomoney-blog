@@ -269,6 +269,18 @@ NISAの場合、売却はいつでも自由。
 
 ---
 
+## 自分で計算するのが難しいときは
+
+「逆算といっても、何から手をつければ…」という方は、FPに無料で相談するのも手です。私も最初は数字が苦手でしたが、プロと一緒に「自分はいくら必要か」を整理すると、一気に現実的になりました。
+
+<div style="background:#f0f8ff;border:1px solid #7ab3d0;padding:1.4em 1.8em;margin:2em 0;border-radius:6px;">
+<p style="margin:0 0 0.5em;font-weight:bold;font-size:1.05em;">▶ 年金・老後資金の無料相談 ― 保険ガーデン</p>
+<p style="margin:0 0 0.8em;font-size:0.95em;">FPが老後のお金・年金・貯蓄をまるごと無料で相談に乗ってくれるサービス。「老後いくら必要か」から一緒に考えてくれます。話を聞くだけでもOK。</p>
+<p style="margin:0;"><a href="https://t.afi-b.com/visit.php?a=X14272H-D468442l&p=a981986P" target="_blank" rel="nofollow sponsored noopener">👉 保険ガーデンで無料相談してみる</a></p>
+</div>
+
+---
+
 ## 今すぐできること
 
 老後が不安なら、まず自分の目標金額を出してみてください。
