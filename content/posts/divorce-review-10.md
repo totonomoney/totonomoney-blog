@@ -97,6 +97,14 @@ cover:
 
 保険見直しの詳細は[シンママが離婚後に保険を見直した結果｜掛け捨てだけで十分だった理由](/posts/hoken-minaoshi/)で書いています。
 
+離婚で家計の前提がガラッと変わったときは、保険を見直す絶好のタイミングです。「今の保険、自分と子どもに本当に必要？」を中立のFPに無料で整理してもらうと、無駄な保障に気づけます。私もこれで月4〜5万円→数千円台まで下げられました。
+
+<div style="background:#f0f8ff;border:1px solid #7ab3d0;padding:1.4em 1.8em;margin:2em 0;border-radius:6px;">
+<p style="margin:0 0 0.5em;font-weight:bold;font-size:1.05em;">▶ 生命保険の無料相談 ― みんなの生命保険アドバイザー</p>
+<p style="margin:0 0 0.8em;font-size:0.95em;">FPが中立な立場で今の保険をまるごと見直してくれる無料相談サービス。来店・訪問・オンラインから選べて、契約の強制もありません。</p>
+<p style="margin:0;"><a href="https://h.accesstrade.net/sp/cc?rk=0100pflv00os2i" target="_blank" rel="nofollow sponsored noopener">👉 みんなの生命保険アドバイザーで無料相談してみる</a></p>
+</div>
+
 ---
 
 ## 3. サブスクを全部リストアップした 💻
