@@ -105,6 +105,14 @@ cover:
 
 </div>
 
+保険は、以前は貯蓄型も含めて月4〜5万円払っていました。中立のFPに無料相談して掛け捨て1本に絞った結果、今の約13,000円まで下がっています。固定費の中でも保険は「見直すと一番効く」項目でした。
+
+<div style="background:#f0f8ff;border:1px solid #7ab3d0;padding:1.4em 1.8em;margin:2em 0;border-radius:6px;">
+<p style="margin:0 0 0.5em;font-weight:bold;font-size:1.05em;">▶ 生命保険の無料相談 ― みんなの生命保険アドバイザー</p>
+<p style="margin:0 0 0.8em;font-size:0.95em;">FPが中立な立場で今の保険をまるごと見直してくれる無料相談サービス。来店・訪問・オンラインから選べて、契約の強制もありません。</p>
+<p style="margin:0;"><a href="https://h.accesstrade.net/sp/cc?rk=0100pflv00os2i" target="_blank" rel="nofollow sponsored noopener">👉 みんなの生命保険アドバイザーで無料相談してみる</a></p>
+</div>
+
 ---
 
 ## 投資・積み立て（毎月）
