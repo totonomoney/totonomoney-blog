@@ -5,6 +5,7 @@ draft: false
 categories: ["投資（NISA・iDeCo）", "お金・節約"]
 tags: ["NISA", "SBI証券", "楽天証券", "投資初心者", "シンママ"]
 description: "シングルマザー目線でSBI証券と楽天証券を徹底比較しました。FP2級のまゆみんが実際にSBI証券を選んだ理由・iDeCoとの一元管理・仕送り自動化のメリットを解説します。NISA口座選びで迷っているひとり親はまず読んでください。"
+summary: "シングルマザー目線でSBI証券と楽天証券を徹底比較しました。FP2級のまゆみんが実際にSBI証券を選んだ理由・iDeCoとの一元管理・仕送り自動化のメリットを解説します。NISA口座選びで迷っているひとり親はまず読んでください。"
 cover:
   image: /images/nisa-kouza-hikaku.jpg
   alt: "シンママがNISA口座を選ぶならどこ？"

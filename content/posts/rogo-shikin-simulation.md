@@ -5,6 +5,7 @@ draft: false
 categories: ["投資（NISA・iDeCo）", "お金・節約"]
 tags: ["老後資金", "NISA", "iDeCo", "シンママ", "資産形成", "シミュレーション"]
 description: "月1万円でも20年で約368万円。シングルマザーの老後資金をNISA・iDeCoで作る積立シミュレーションを3パターンで紹介。少額から始めたい方へ。"
+summary: "月1万円でも20年で約368万円。シングルマザーの老後資金をNISA・iDeCoで作る積立シミュレーションを3パターンで紹介。少額から始めたい方へ。"
 cover:
   image: /images/rogo-shikin-simulation.jpg
   alt: "シンママが月1万円から始める老後資金"
